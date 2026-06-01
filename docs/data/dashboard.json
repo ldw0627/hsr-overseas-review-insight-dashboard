@@ -1,0 +1,4772 @@
+{
+  "date": "2026-05-31",
+  "start": "2026-05-01",
+  "end": "2026-05-31",
+  "dates": [
+    {
+      "date": "2026-05-31",
+      "status": "error",
+      "status_detail": "没有真实评论正文",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-30",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-29",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-28",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-27",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-26",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-25",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-24",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-23",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-22",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-21",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-20",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-19",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-18",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-17",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-16",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-15",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-14",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-13",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-12",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-11",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-10",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-09",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-08",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-07",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-06",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-05",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-04",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-03",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-02",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-01",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    }
+  ],
+  "source": "reviews_scored_2026-05-31.csv、reviews_scored_2026-05-30.csv、reviews_scored_2026-05-29.csv、reviews_scored_2026-05-28.csv、reviews_scored_2026-05-27.csv、reviews_scored_2026-05-26.csv、reviews_scored_2026-05-25.csv、reviews_scored_2026-05-24.csv、reviews_scored_2026-05-23.csv、reviews_scored_2026-05-22.csv、reviews_scored_2026-05-21.csv、reviews_scored_2026-05-20.csv、reviews_scored_2026-05-19.csv、reviews_scored_2026-05-18.csv、reviews_scored_2026-05-17.csv、reviews_scored_2026-05-16.csv、reviews_scored_2026-05-15.csv、reviews_scored_2026-05-14.csv、reviews_scored_2026-05-13.csv、reviews_scored_2026-05-12.csv、reviews_scored_2026-05-11.csv、reviews_scored_2026-05-10.csv、reviews_scored_2026-05-09.csv、reviews_scored_2026-05-08.csv、reviews_scored_2026-05-07.csv、reviews_scored_2026-05-06.csv、reviews_scored_2026-05-05.csv、reviews_scored_2026-05-04.csv、reviews_scored_2026-05-03.csv、reviews_scored_2026-05-02.csv、reviews_scored_2026-05-01.csv",
+  "generated_at": "2026-06-02T03:28:40",
+  "method_note": "正式 LLM 版：已完成 LLM 识别；其中 1 条因接口返回异常使用临时标注回退。（GitHub Pages 静态 Demo：数据来自构建时生成的 dashboard.json，不会实时请求后端。）",
+  "headline": [
+    "目标产品样本 2241 条，平均评分 3.87；竞品均分 2.80。",
+    "负面率 28.2%，最集中的负面问题是 平衡/难度。",
+    "版本相关评论占比 45.9%，建议优先排查更新后新增的低分样本。"
+  ],
+  "kpis": {
+    "target_reviews": 2241,
+    "avg_rating": 3.8701,
+    "negative_rate": 0.2825,
+    "version_related_rate": 0.4592,
+    "competitor_avg_rating": 2.7991
+  },
+  "health": {
+    "note": "待接入 DAU、收入、下载等业务数据；当前先用商店评论健康度做预警。",
+    "items": [
+      {
+        "key": "dau",
+        "label": "DAU",
+        "value": null,
+        "trend": null,
+        "status": "待接入"
+      },
+      {
+        "key": "revenue",
+        "label": "收入",
+        "value": null,
+        "trend": null,
+        "status": "待接入"
+      },
+      {
+        "key": "downloads",
+        "label": "下载",
+        "value": null,
+        "trend": null,
+        "status": "待接入"
+      }
+    ],
+    "insights": [
+      "评论健康度：平均评分 3.87，负面率 28.2%，当前核心问题为 平衡/难度。",
+      "接入业务数据后，可在这里自动提示：负评上升是否伴随 DAU、收入或下载下滑。"
+    ]
+  },
+  "action_center": {
+    "p1": [
+      {
+        "priority": "P1",
+        "issue": "强度膨胀/Powercreep、抽卡保底/50-50、高难挑战/终局相关平衡争议扩散",
+        "source": "平衡/难度",
+        "topics": [
+          "游戏平衡",
+          "玩法平衡",
+          "玩法体验"
+        ],
+        "countries": [
+          "美国",
+          "印度尼西亚",
+          "中国台湾"
+        ],
+        "versions": [
+          "4.2.0",
+          "4.0.0",
+          "1.0.5"
+        ],
+        "negative_samples": 250,
+        "negative_rate": 0.1116,
+        "risk_level": "高",
+        "priority_score": 0.5667,
+        "why": "该问题覆盖 13 个国家/地区，负面样本量权重较高，版本相关占比 55.2%，高风险样本占比 30.0%。",
+        "impact": "在目标产品全部评论中占比 11.2%，会直接拉低商店评分并放大社区负面叙事。",
+        "action": "在下个版本前发布角色定位与高难玩法说明，明确强度膨胀/Powercreep、抽卡保底/50-50的设计边界，并同步美国、印度尼西亚社区口径，降低玩家对角色淘汰的预期。",
+        "value": {
+          "rating": "★★★☆☆",
+          "retention": "★★★★☆",
+          "monetization": "★★★★★"
+        }
+      },
+      {
+        "priority": "P1",
+        "issue": "抽卡价值与付费预期冲突",
+        "source": "抽卡/付费",
+        "topics": [
+          "抽卡付费",
+          "抽卡机制",
+          "玩法体验"
+        ],
+        "countries": [
+          "美国",
+          "中国台湾",
+          "韩国"
+        ],
+        "versions": [
+          "4.2.0",
+          "2.2.0",
+          "2.0.0"
+        ],
+        "negative_samples": 143,
+        "negative_rate": 0.0638,
+        "risk_level": "中",
+        "priority_score": 0.4145,
+        "why": "该问题覆盖 14 个国家/地区，负面样本量权重较高，版本相关占比 45.5%，高风险样本占比 32.9%。",
+        "impact": "在目标产品全部评论中占比 6.4%，会直接拉低商店评分并放大社区负面叙事。",
+        "action": "把抽卡付费、抽卡机制相关负评拆成概率、保底、奖励三张清单，先调整商店页与社区内容里的价值表达，减少“必须抽才可玩”的感知。",
+        "value": {
+          "rating": "★★☆☆☆",
+          "retention": "★★★☆☆",
+          "monetization": "★★★★★"
+        }
+      },
+      {
+        "priority": "P1",
+        "issue": "内容/剧情/活动形成集中负面",
+        "source": "内容/剧情/活动",
+        "topics": [
+          "玩法体验",
+          "内容体验",
+          "角色设计"
+        ],
+        "countries": [
+          "美国",
+          "日本",
+          "巴西"
+        ],
+        "versions": [
+          "4.2.0",
+          "4.0.0",
+          "1.0.5"
+        ],
+        "negative_samples": 125,
+        "negative_rate": 0.0558,
+        "risk_level": "中",
+        "priority_score": 0.3684,
+        "why": "该问题覆盖 13 个国家/地区，负面样本量权重较高，版本相关占比 49.6%，高风险样本占比 9.6%。",
+        "impact": "在目标产品全部评论中占比 5.6%，会直接拉低商店评分并放大社区负面叙事。",
+        "action": "把玩法体验、内容体验拆成可派单事项，给产品、客服、社区分别分配响应动作，并在 48 小时内回看新增低分是否下降。",
+        "value": {
+          "rating": "★★☆☆☆",
+          "retention": "★★★☆☆",
+          "monetization": "★★★☆☆"
+        }
+      }
+    ],
+    "p2": [
+      {
+        "issue": "性能/卡顿",
+        "trend": "↓",
+        "change_7d": -0.2,
+        "negative_samples": 85,
+        "risk_level": "中",
+        "action": "该问题近 7 天下行，保留监控但降低会议优先级，确认下降是否来自版本修复或样本减少。"
+      },
+      {
+        "issue": "闪退/无法启动",
+        "trend": "↑",
+        "change_7d": 0.1667,
+        "negative_samples": 24,
+        "risk_level": "低",
+        "action": "该问题近 7 天上升，建立每日新增样本列表，并把高赞低分评论转给对应负责人当天处理。"
+      },
+      {
+        "issue": "功能异常",
+        "trend": "↓",
+        "change_7d": -0.7333,
+        "negative_samples": 44,
+        "risk_level": "低",
+        "action": "该问题近 7 天下行，保留监控但降低会议优先级，确认下降是否来自版本修复或样本减少。"
+      },
+      {
+        "issue": "账号/登录",
+        "trend": "↓",
+        "change_7d": -0.4615,
+        "negative_samples": 36,
+        "risk_level": "低",
+        "action": "该问题近 7 天下行，保留监控但降低会议优先级，确认下降是否来自版本修复或样本减少。"
+      },
+      {
+        "issue": "更新后回退",
+        "trend": "↑",
+        "change_7d": 0.3333,
+        "negative_samples": 19,
+        "risk_level": "低",
+        "action": "该问题近 7 天上升，建立每日新增样本列表，并把高赞低分评论转给对应负责人当天处理。"
+      }
+    ],
+    "markets": [
+      {
+        "market": "美国",
+        "negative_samples": 261,
+        "main_issues": [
+          "平衡/难度",
+          "抽卡/付费"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、抽卡/付费，高频对象为强度膨胀/Powercreep、抽卡保底/50-50。",
+        "action": "美国运营先围绕平衡/难度、抽卡/付费准备本地语言回应，把强度膨胀/Powercreep、抽卡保底/50-50相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "巴西",
+        "negative_samples": 86,
+        "main_issues": [
+          "平衡/难度",
+          "内容/剧情/活动"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、内容/剧情/活动，高频对象为强度膨胀/Powercreep、高难挑战/终局。",
+        "action": "巴西运营先围绕平衡/难度、内容/剧情/活动准备本地语言回应，把强度膨胀/Powercreep、高难挑战/终局相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "印度尼西亚",
+        "negative_samples": 127,
+        "main_issues": [
+          "平衡/难度",
+          "性能/卡顿"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、性能/卡顿，高频对象为强度膨胀/Powercreep、流萤/Firefly/Sam。",
+        "action": "印度尼西亚运营先围绕平衡/难度、性能/卡顿准备本地语言回应，把强度膨胀/Powercreep、流萤/Firefly/Sam相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "法国",
+        "negative_samples": 36,
+        "main_issues": [
+          "平衡/难度",
+          "抽卡/付费"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、抽卡/付费，高频对象为强度膨胀/Powercreep、高难挑战/终局。",
+        "action": "法国运营先围绕平衡/难度、抽卡/付费准备本地语言回应，把强度膨胀/Powercreep、高难挑战/终局相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "日本",
+        "negative_samples": 78,
+        "main_issues": [
+          "平衡/难度",
+          "内容/剧情/活动"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、内容/剧情/活动，高频对象为强度膨胀/Powercreep、Saber/Fate 联动。",
+        "action": "日本运营先围绕平衡/难度、内容/剧情/活动准备本地语言回应，把强度膨胀/Powercreep、Saber/Fate 联动相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "泰国",
+        "negative_samples": 65,
+        "main_issues": [
+          "平衡/难度",
+          "内容/剧情/活动"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、内容/剧情/活动，高频对象为强度膨胀/Powercreep、Saber/Fate 联动。",
+        "action": "泰国运营先围绕平衡/难度、内容/剧情/活动准备本地语言回应，把强度膨胀/Powercreep、Saber/Fate 联动相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "中国台湾",
+        "negative_samples": 79,
+        "main_issues": [
+          "平衡/难度",
+          "抽卡/付费"
+        ],
+        "reason": "该市场负面样本集中在平衡/难度、抽卡/付费，高频对象为抽卡保底/50-50、强度膨胀/Powercreep。",
+        "action": "中国台湾运营先围绕平衡/难度、抽卡/付费准备本地语言回应，把抽卡保底/50-50、强度膨胀/Powercreep相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "韩国",
+        "negative_samples": 55,
+        "main_issues": [
+          "抽卡/付费",
+          "平衡/难度"
+        ],
+        "reason": "该市场负面样本集中在抽卡/付费、平衡/难度，高频对象为强度膨胀/Powercreep、高难挑战/终局。",
+        "action": "韩国运营先围绕抽卡/付费、平衡/难度准备本地语言回应，把强度膨胀/Powercreep、高难挑战/终局相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "德国",
+        "negative_samples": 12,
+        "main_issues": [
+          "抽卡/付费",
+          "性能/卡顿"
+        ],
+        "reason": "该市场负面样本集中在抽卡/付费、性能/卡顿，高频对象为黄泉/Acheron。",
+        "action": "德国运营先围绕抽卡/付费、性能/卡顿准备本地语言回应，把黄泉/Acheron相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "马来西亚",
+        "negative_samples": 5,
+        "main_issues": [
+          "账号/登录",
+          "其他：泛负评/未说明"
+        ],
+        "reason": "该市场负面样本集中在账号/登录、其他：泛负评/未说明，高频对象为核心玩法体验。",
+        "action": "马来西亚运营先围绕账号/登录、其他：泛负评/未说明准备本地语言回应，把核心玩法体验相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "加拿大",
+        "negative_samples": 4,
+        "main_issues": [
+          "性能/卡顿",
+          "抽卡/付费"
+        ],
+        "reason": "该市场负面样本集中在性能/卡顿、抽卡/付费，高频对象为核心玩法体验。",
+        "action": "加拿大运营先围绕性能/卡顿、抽卡/付费准备本地语言回应，把核心玩法体验相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      },
+      {
+        "market": "英国",
+        "negative_samples": 6,
+        "main_issues": [
+          "内容/剧情/活动",
+          "性能/卡顿"
+        ],
+        "reason": "该市场负面样本集中在内容/剧情/活动、性能/卡顿，高频对象为流萤/Firefly/Sam、强度膨胀/Powercreep。",
+        "action": "英国运营先围绕内容/剧情/活动、性能/卡顿准备本地语言回应，把流萤/Firefly/Sam、强度膨胀/Powercreep相关争议转化为角色定位、玩法门槛和奖励解释三类内容。"
+      }
+    ],
+    "localization": {
+      "triggered": false,
+      "summary": "本地化相关负面占比 1.1%，未达到专项处理阈值。",
+      "items": []
+    },
+    "competitor_opportunity": {
+      "advantages": [
+        "目标产品均分 3.87 高于竞品均分 2.80，评分基本盘仍可承接修复沟通。",
+        "抽卡/付费 负面占比低于竞品 11.4%，可作为口碑防守优势。",
+        "内容/剧情/活动 负面占比低于竞品 8.8%，可作为口碑防守优势。"
+      ],
+      "disadvantages": [
+        "平衡/难度 负面占比高于竞品 17.4%，需要优先压降。"
+      ],
+      "action": "把同时影响评分且高于竞品的问题放入下个版本沟通清单，先输出修复动作和玩家可感知的补偿或说明。"
+    },
+    "future_risk": {
+      "countries": [
+        {
+          "name": "美国",
+          "score": 111.8068,
+          "top_issue": "平衡/难度"
+        },
+        {
+          "name": "中国香港",
+          "score": 65.7,
+          "top_issue": "平衡/难度"
+        },
+        {
+          "name": "印度尼西亚",
+          "score": 64.4055,
+          "top_issue": "平衡/难度"
+        },
+        {
+          "name": "中国台湾",
+          "score": 57.4962,
+          "top_issue": "平衡/难度"
+        },
+        {
+          "name": "日本",
+          "score": 53.9883,
+          "top_issue": "平衡/难度"
+        }
+      ],
+      "topics": [
+        {
+          "name": "游戏平衡",
+          "score": 114.0,
+          "samples": 94
+        },
+        {
+          "name": "抽卡付费",
+          "score": 86.973,
+          "samples": 74
+        },
+        {
+          "name": "玩法体验",
+          "score": 65.8302,
+          "samples": 53
+        },
+        {
+          "name": "性能体验",
+          "score": 58.4286,
+          "samples": 35
+        },
+        {
+          "name": "闪退问题",
+          "score": 49.0,
+          "samples": 9
+        }
+      ],
+      "action": "未来 7 天把美国与「游戏平衡」设为每日首屏检查项；若新增高危样本连续两天上升，直接产出客服话术、社区说明和版本排障清单。"
+    }
+  },
+  "target_metrics": [
+    {
+      "app_short_name": "HSR",
+      "store": "app_store",
+      "is_target": true,
+      "reviews": 414,
+      "avg_rating": 3.9155,
+      "negative_rate": 0.2657,
+      "high_severity": 0.1208
+    },
+    {
+      "app_short_name": "HSR",
+      "store": "google_play",
+      "is_target": true,
+      "reviews": 1827,
+      "avg_rating": 3.8599,
+      "negative_rate": 0.2863,
+      "high_severity": 0.1122
+    }
+  ],
+  "sentiment": [
+    {
+      "name": "正向",
+      "raw_name": "positive",
+      "count": 1281,
+      "share": 0.5716
+    },
+    {
+      "name": "负向",
+      "raw_name": "negative",
+      "count": 633,
+      "share": 0.2825
+    },
+    {
+      "name": "混合",
+      "raw_name": "mixed",
+      "count": 194,
+      "share": 0.0866
+    },
+    {
+      "name": "中性",
+      "raw_name": "neutral",
+      "count": 133,
+      "share": 0.0593
+    }
+  ],
+  "issues": [
+    {
+      "name": "平衡/难度",
+      "raw_name": "平衡/难度",
+      "count": 250,
+      "share": 0.3218
+    },
+    {
+      "name": "抽卡/付费",
+      "raw_name": "抽卡/付费",
+      "count": 143,
+      "share": 0.184
+    },
+    {
+      "name": "内容/剧情/活动",
+      "raw_name": "内容/剧情/活动",
+      "count": 125,
+      "share": 0.1609
+    },
+    {
+      "name": "性能/卡顿",
+      "raw_name": "性能/卡顿",
+      "count": 85,
+      "share": 0.1094
+    },
+    {
+      "name": "其他：泛负评/未说明",
+      "raw_name": "其他：泛负评/未说明",
+      "count": 70,
+      "share": 0.0901
+    },
+    {
+      "name": "功能异常",
+      "raw_name": "功能异常",
+      "count": 44,
+      "share": 0.0566
+    },
+    {
+      "name": "账号/登录",
+      "raw_name": "账号/登录",
+      "count": 36,
+      "share": 0.0463
+    },
+    {
+      "name": "闪退/无法启动",
+      "raw_name": "闪退/无法启动",
+      "count": 24,
+      "share": 0.0309
+    }
+  ],
+  "region_rating_chart": [
+    {
+      "region": "us",
+      "region_name": "美国",
+      "reviews": 613,
+      "avg_rating": 3.6378,
+      "negative_rate": 0.3328,
+      "ratings": {
+        "1": 157,
+        "2": 27,
+        "3": 34,
+        "4": 58,
+        "5": 337
+      }
+    },
+    {
+      "region": "br",
+      "region_name": "巴西",
+      "reviews": 459,
+      "avg_rating": 4.4205,
+      "negative_rate": 0.1264,
+      "ratings": {
+        "1": 31,
+        "2": 8,
+        "3": 25,
+        "4": 68,
+        "5": 327
+      }
+    },
+    {
+      "region": "id",
+      "region_name": "印度尼西亚",
+      "reviews": 337,
+      "avg_rating": 3.9139,
+      "negative_rate": 0.3116,
+      "ratings": {
+        "1": 62,
+        "2": 15,
+        "3": 26,
+        "4": 21,
+        "5": 213
+      }
+    },
+    {
+      "region": "fr",
+      "region_name": "法国",
+      "reviews": 178,
+      "avg_rating": 4.3652,
+      "negative_rate": 0.1011,
+      "ratings": {
+        "1": 15,
+        "2": 0,
+        "3": 6,
+        "4": 41,
+        "5": 116
+      }
+    },
+    {
+      "region": "jp",
+      "region_name": "日本",
+      "reviews": 154,
+      "avg_rating": 3.3442,
+      "negative_rate": 0.4286,
+      "ratings": {
+        "1": 42,
+        "2": 12,
+        "3": 15,
+        "4": 21,
+        "5": 64
+      }
+    },
+    {
+      "region": "th",
+      "region_name": "泰国",
+      "reviews": 154,
+      "avg_rating": 3.7143,
+      "negative_rate": 0.3182,
+      "ratings": {
+        "1": 33,
+        "2": 6,
+        "3": 11,
+        "4": 26,
+        "5": 78
+      }
+    },
+    {
+      "region": "tw",
+      "region_name": "中国台湾",
+      "reviews": 130,
+      "avg_rating": 3.1,
+      "negative_rate": 0.4923,
+      "ratings": {
+        "1": 49,
+        "2": 9,
+        "3": 9,
+        "4": 6,
+        "5": 57
+      }
+    },
+    {
+      "region": "kr",
+      "region_name": "韩国",
+      "reviews": 101,
+      "avg_rating": 3.7228,
+      "negative_rate": 0.3861,
+      "ratings": {
+        "1": 21,
+        "2": 6,
+        "3": 4,
+        "4": 19,
+        "5": 51
+      }
+    },
+    {
+      "region": "de",
+      "region_name": "德国",
+      "reviews": 41,
+      "avg_rating": 3.9512,
+      "negative_rate": 0.1951,
+      "ratings": {
+        "1": 6,
+        "2": 4,
+        "3": 1,
+        "4": 5,
+        "5": 25
+      }
+    },
+    {
+      "region": "my",
+      "region_name": "马来西亚",
+      "reviews": 18,
+      "avg_rating": 4.1111,
+      "negative_rate": 0.2778,
+      "ratings": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 14
+      }
+    }
+  ],
+  "region_issue_chart": {
+    "issues": [
+      "平衡/难度",
+      "抽卡/付费",
+      "内容/剧情/活动",
+      "性能/卡顿",
+      "其他：泛负评/未说明",
+      "功能异常",
+      "账号/登录",
+      "闪退/无法启动"
+    ],
+    "regions": [
+      {
+        "region": "us",
+        "region_name": "美国",
+        "reviews": 261,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 81,
+            "share": 0.3103
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 52,
+            "share": 0.1992
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 41,
+            "share": 0.1571
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 19,
+            "share": 0.0728
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 24,
+            "share": 0.092
+          },
+          {
+            "name": "功能异常",
+            "count": 10,
+            "share": 0.0383
+          },
+          {
+            "name": "账号/登录",
+            "count": 9,
+            "share": 0.0345
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 8,
+            "share": 0.0307
+          }
+        ]
+      },
+      {
+        "region": "id",
+        "region_name": "印度尼西亚",
+        "reviews": 127,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 48,
+            "share": 0.378
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 11,
+            "share": 0.0866
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 14,
+            "share": 0.1102
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 18,
+            "share": 0.1417
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 6,
+            "share": 0.0472
+          },
+          {
+            "name": "功能异常",
+            "count": 13,
+            "share": 0.1024
+          },
+          {
+            "name": "账号/登录",
+            "count": 8,
+            "share": 0.063
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 4,
+            "share": 0.0315
+          }
+        ]
+      },
+      {
+        "region": "br",
+        "region_name": "巴西",
+        "reviews": 86,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 17,
+            "share": 0.1977
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 15,
+            "share": 0.1744
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 16,
+            "share": 0.186
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 11,
+            "share": 0.1279
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 11,
+            "share": 0.1279
+          },
+          {
+            "name": "功能异常",
+            "count": 6,
+            "share": 0.0698
+          },
+          {
+            "name": "账号/登录",
+            "count": 3,
+            "share": 0.0349
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 2,
+            "share": 0.0233
+          }
+        ]
+      },
+      {
+        "region": "tw",
+        "region_name": "中国台湾",
+        "reviews": 79,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 28,
+            "share": 0.3544
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 17,
+            "share": 0.2152
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 11,
+            "share": 0.1392
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 4,
+            "share": 0.0506
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 6,
+            "share": 0.0759
+          },
+          {
+            "name": "功能异常",
+            "count": 1,
+            "share": 0.0127
+          },
+          {
+            "name": "账号/登录",
+            "count": 3,
+            "share": 0.038
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 6,
+            "share": 0.0759
+          }
+        ]
+      },
+      {
+        "region": "jp",
+        "region_name": "日本",
+        "reviews": 78,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 23,
+            "share": 0.2949
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 7,
+            "share": 0.0897
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 20,
+            "share": 0.2564
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 12,
+            "share": 0.1538
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 3,
+            "share": 0.0385
+          },
+          {
+            "name": "功能异常",
+            "count": 6,
+            "share": 0.0769
+          },
+          {
+            "name": "账号/登录",
+            "count": 3,
+            "share": 0.0385
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 1,
+            "share": 0.0128
+          }
+        ]
+      },
+      {
+        "region": "th",
+        "region_name": "泰国",
+        "reviews": 65,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 23,
+            "share": 0.3538
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 7,
+            "share": 0.1077
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 9,
+            "share": 0.1385
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 7,
+            "share": 0.1077
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 4,
+            "share": 0.0615
+          },
+          {
+            "name": "功能异常",
+            "count": 2,
+            "share": 0.0308
+          },
+          {
+            "name": "账号/登录",
+            "count": 6,
+            "share": 0.0923
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 2,
+            "share": 0.0308
+          }
+        ]
+      },
+      {
+        "region": "kr",
+        "region_name": "韩国",
+        "reviews": 55,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 10,
+            "share": 0.1818
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 15,
+            "share": 0.2727
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 6,
+            "share": 0.1091
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 4,
+            "share": 0.0727
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 8,
+            "share": 0.1455
+          },
+          {
+            "name": "功能异常",
+            "count": 4,
+            "share": 0.0727
+          },
+          {
+            "name": "账号/登录",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 0,
+            "share": 0.0
+          }
+        ]
+      },
+      {
+        "region": "fr",
+        "region_name": "法国",
+        "reviews": 36,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 12,
+            "share": 0.3333
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 8,
+            "share": 0.2222
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 1,
+            "share": 0.0278
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 3,
+            "share": 0.0833
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 6,
+            "share": 0.1667
+          },
+          {
+            "name": "功能异常",
+            "count": 1,
+            "share": 0.0278
+          },
+          {
+            "name": "账号/登录",
+            "count": 1,
+            "share": 0.0278
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 1,
+            "share": 0.0278
+          }
+        ]
+      },
+      {
+        "region": "de",
+        "region_name": "德国",
+        "reviews": 12,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 1,
+            "share": 0.0833
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 6,
+            "share": 0.5
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 2,
+            "share": 0.1667
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 2,
+            "share": 0.1667
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "功能异常",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "账号/登录",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 0,
+            "share": 0.0
+          }
+        ]
+      },
+      {
+        "region": "gb",
+        "region_name": "英国",
+        "reviews": 6,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 1,
+            "share": 0.1667
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 2,
+            "share": 0.3333
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 2,
+            "share": 0.3333
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "功能异常",
+            "count": 1,
+            "share": 0.1667
+          },
+          {
+            "name": "账号/登录",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 0,
+            "share": 0.0
+          }
+        ]
+      },
+      {
+        "region": "my",
+        "region_name": "马来西亚",
+        "reviews": 5,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 1,
+            "share": 0.2
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 2,
+            "share": 0.4
+          },
+          {
+            "name": "功能异常",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "账号/登录",
+            "count": 2,
+            "share": 0.4
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 0,
+            "share": 0.0
+          }
+        ]
+      },
+      {
+        "region": "au",
+        "region_name": "澳大利亚",
+        "reviews": 4,
+        "issues": [
+          {
+            "name": "平衡/难度",
+            "count": 1,
+            "share": 0.25
+          },
+          {
+            "name": "抽卡/付费",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "内容/剧情/活动",
+            "count": 1,
+            "share": 0.25
+          },
+          {
+            "name": "性能/卡顿",
+            "count": 1,
+            "share": 0.25
+          },
+          {
+            "name": "其他：泛负评/未说明",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "功能异常",
+            "count": 0,
+            "share": 0.0
+          },
+          {
+            "name": "账号/登录",
+            "count": 1,
+            "share": 0.25
+          },
+          {
+            "name": "闪退/无法启动",
+            "count": 0,
+            "share": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "topics": [
+    {
+      "name": "游戏平衡",
+      "raw_name": "游戏平衡",
+      "count": 94,
+      "share": 0.2741
+    },
+    {
+      "name": "抽卡付费",
+      "raw_name": "抽卡付费",
+      "count": 74,
+      "share": 0.2157
+    },
+    {
+      "name": "玩法体验",
+      "raw_name": "玩法体验",
+      "count": 53,
+      "share": 0.1545
+    },
+    {
+      "name": "性能体验",
+      "raw_name": "性能体验",
+      "count": 35,
+      "share": 0.102
+    },
+    {
+      "name": "游戏品质",
+      "raw_name": "游戏品质",
+      "count": 24,
+      "share": 0.07
+    },
+    {
+      "name": "存储空间",
+      "raw_name": "存储空间",
+      "count": 23,
+      "share": 0.0671
+    },
+    {
+      "name": "玩法平衡",
+      "raw_name": "玩法平衡",
+      "count": 21,
+      "share": 0.0612
+    },
+    {
+      "name": "抽卡机制",
+      "raw_name": "抽卡机制",
+      "count": 19,
+      "share": 0.0554
+    }
+  ],
+  "topic_details": {
+    "存储空间": {
+      "topic": "存储空间",
+      "count": 23,
+      "entities": [
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "性能/卡顿",
+          "count": 22,
+          "share": 0.9565
+        },
+        {
+          "name": "更新后回退",
+          "count": 1,
+          "share": 0.0435
+        }
+      ],
+      "samples": [
+        {
+          "store": "app_store",
+          "region": "gb",
+          "region_name": "英国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "I can’t save 50gb just to play currency wars",
+          "text": "Too big\nI love this game, I love firefly. But oh my god I can’t save 50gb just to play currency wars",
+          "translation_zh": "我不能为了玩货币战争而腾出50GB的存储空间。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "2.7.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "20GB para um jogo de turno é muita coisa, Deveria ter uma opção de baixar o que quiser, não baixar todo o jogo",
+          "text": "20GB para um jogo de turno é muita coisa, Deveria ter uma opção de baixar o que quiser, não baixar todo o jogo, apenas a área que você está.",
+          "translation_zh": "20GB对于一款回合制游戏来说太大了，应该有选择下载内容的选项，而不是必须下载整个游戏。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "HP Ku Tidak Muat Lagi Untuk Mendownload Data Update",
+          "text": "HP Ku Tidak Muat Lagi Untuk Mendownload Data Update Dan Saya Tidak Pernah Main HSR Karena Hp Saya Penyimpanan Full",
+          "translation_zh": "内存不足，无法下载更新数据。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": null,
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "スマホでプレイ 39GBなんて他のゲームでも聞いたこと(見たこと)ありませんよ！？グラフィックがきれいだと言っても周りが暗くて方向キーもまともに見えりゃしない。",
+          "text": "容量少なくするの検討してください！スマホでプレイ 39GBなんて他のゲームでも聞いたこと(見たこと)ありませんよ！？グラフィックがきれいだと言っても周りが暗くて方向キーもまともに見えりゃしない。",
+          "translation_zh": "在手机上玩，39GB的容量我在其他游戏里都没听说过（也没见过）！？即使说画面很漂亮，周围又暗，方向键都看不清楚。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "โทรศัพท์นะ 50+ GB เกือบ 60 GB เลย",
+          "text": "ใช่พื้นที่เยอะเกิน นี้โทรศัพท์นะ 50+ GB เกือบ 60 GB เลย",
+          "translation_zh": "手机里占了50多GB，差不多快60GB了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "the amount of space it takes.. Deleting past resources helps a little, but it's not good enough",
+          "text": "Great game and all, I love the events, characters, stories, but the only problem I have with the game is the amount of space it takes.. Deleting past resources helps a little, but it's not good enough. I hope there's something better to at least help lower the size of the game, I have to rely on uninstalling the game repeatedly to get some space.",
+          "translation_zh": "占用的空间太大了……删除以前的资源有点帮助，但还不够好。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "de",
+          "region_name": "德国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "zu wenig Speicherplatz (too little storage space) caused issues after initial good experience",
+          "text": "🫪SPEICHERPLATZ🫪\nEs hat zumindest am Anfang funktioniert danach aber hatte ich auch schon zu wenig Speicherplatz 🥺aber ich fand der Anfang war eigentlich ganz schön gut gemacht (von dem was ich gesehen hatte)….🥲😭😭😭😭😭😭😭😭😭😭aber trotzdem 4 Sterne ⭐️",
+          "translation_zh": "存储空间不足，在最初的良好体验后出现了问题。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "au",
+          "region_name": "澳大利亚",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "I don’t have 41 GB spare to download all the resources",
+          "text": "Storage issue\nI would love to play this game but  sadly I can’t cause I don’t have 41 GB spare to download all the resources on it. Please reduce the storage so I can download AND play it too. Sincerely a HSR fan",
+          "translation_zh": "我没有41GB的空闲空间来下载所有资源。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "ca",
+          "region_name": "加拿大",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "pls reduce the iPad storage sadly I can’t install it",
+          "text": "GREAT GAME BUT pls reduce the iPad storage sadly I can’t install it :(\nSo I want you guys to reduce the storage for this game if you can bc I can’t install it :( pls try something :(",
+          "translation_zh": "请减少iPad所需的存储空间，遗憾的是我无法安装它。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "couldn't play the game due to the high amount of storage it consumes",
+          "text": "I couldn't play the game due to the high amount of storage it consumes. It's really unfortunate, I was looking forward to playing, graphics and quality look amazing.",
+          "translation_zh": "由于占用的存储空间太大，无法玩这款游戏。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "it takes up more then 20GB and I have a 64GB phone, pls make ur game smaller",
+          "text": "Storage size\nI LOVE this game and have recently came back, but it takes up more then 20GB and I have a 64GB phone, pls make ur game smaller",
+          "translation_zh": "它占用了超过20GB的空间，而我的手机只有64GB，请把游戏做小一点。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "penyimpanan hp gw udah gk cukup untuk update mendatang apk hsr",
+          "text": "tolong kasihan apk tambahan seperti genshin impact cloud, penyimpanan hp gw udah gk cukup untuk update mendatang apk hsr 😭",
+          "translation_zh": "我的手机存储空间已经不足，无法更新即将到来的原神应用。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "it takes up most of my phones storage",
+          "text": "i like it the combat is fun and the little mini games are also cool but it takes up most of my phones storage",
+          "translation_zh": "它占用了我手机的大部分存储空间。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": null,
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "容量がたくさんあったら快適かもだけど10GB未満とかは厳しいかも",
+          "text": "容量がたくさんあったら快適かもだけど10GB未満とかは厳しいかも、、、",
+          "translation_zh": "如果容量很大可能会很流畅，但不到10GB的话可能会很吃力。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "容量デカ過ぎじゃね (The storage size is too large)",
+          "text": "容量....\nマジで容量デカ過ぎじゃね.....？",
+          "translation_zh": "容量是不是太大了？",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.1.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "更新后回退",
+          "evidence": "bruh 21.96 gigs",
+          "text": "bruh 21.96 gigs",
+          "translation_zh": "兄弟，21.96GB啊",
+          "entities": []
+        }
+      ]
+    },
+    "性能体验": {
+      "topic": "性能体验",
+      "count": 35,
+      "entities": [
+        {
+          "name": "银狼/Silver Wolf",
+          "type": "角色",
+          "count": 4
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 1
+        },
+        {
+          "name": "高难挑战/终局",
+          "type": "玩法",
+          "count": 1
+        },
+        {
+          "name": "差分宇宙",
+          "type": "玩法",
+          "count": 1
+        },
+        {
+          "name": "模拟宇宙",
+          "type": "玩法",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "性能/卡顿",
+          "count": 26,
+          "share": 0.7429
+        },
+        {
+          "name": "闪退/无法启动",
+          "count": 7,
+          "share": 0.2
+        },
+        {
+          "name": "更新后回退",
+          "count": 1,
+          "share": 0.0286
+        },
+        {
+          "name": "其他：泛负评/未说明",
+          "count": 1,
+          "share": 0.0286
+        }
+      ],
+      "samples": [
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "can you fix bug for silver wolf, my is very very frame for playing",
+          "text": "for development, can you fix bug for silver wolf, my is very very frame for playing",
+          "translation_zh": "你能修复银狼的bug吗？我玩的时候非常非常卡顿。",
+          "entities": [
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "999 bikin tampilan jadi berat banget terus sering keluar sendiri... grafik udah paling terendah dan 30 FPS tapi rasanya gak ngaruh",
+          "text": "Angka damage-nya numpuk banyak banget, apalagi kalau pakai Silver Wolf LV. 999 bikin tampilan jadi berat banget terus sering keluar sendiri. Padahal grafik udah paling terendah dan 30 FPS tapi rasanya gak ngaruh. Tolong dong bikin fitur buat matiin tulisan angkanya, sama benerin lagi pengaturan paling rendah biar emang beneran ringan.",
+          "translation_zh": "999让界面变得非常卡顿，而且经常自动退出……画质已经调到最低，30帧，但感觉没什么改善。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "RPGとは思えないほど容量が大きく、ストーリーやクエストスキップを今更実装されても遊ぶ価値はなかった",
+          "text": "周年でキャラ配布があったので2度目の新規プレイ。RPGとは思えないほど容量が大きく、ストーリーやクエストスキップを今更実装されても遊ぶ価値はなかった。インフレを楽しむならいいと思う。",
+          "translation_zh": "容量大得不像是RPG，剧情和任务跳过功能现在才加进来，已经没有玩下去的价值了。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.1.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "闪退/无法启动",
+          "evidence": "with 4.1 I can't do divergent universe, fight bosses, at this point it's hard to collect material, I have a cheap phone but they should optimize it more or let us have more options",
+          "text": "I've been playing hsr since 2.3 and I never had experienced any crashing problems but with 4.1 I can't do divergent universe, fight bosses, at this point it's hard to collect material, I have a cheap phone but they should optimize it more or let us have more options.",
+          "translation_zh": "在4.1版本里，我无法进行分歧宇宙和打Boss，现在收集材料变得很困难。我手机配置低，但他们应该进一步优化，或者给我们更多的设置选项。",
+          "entities": [
+            {
+              "name": "差分宇宙",
+              "type": "玩法"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "狼尊打貨幣和模擬宇宙時會卡的問題，馬賽克都出來了",
+          "text": "甚麼時候可以優化一下狼尊打貨幣和模擬宇宙時會卡的問題？馬賽克都出來了",
+          "translation_zh": "狼尊在打货币和模拟宇宙时会卡顿，画面都出现马赛克了。",
+          "entities": [
+            {
+              "name": "模拟宇宙",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "Every time I used SP Silver Wolf's Burst my phone suddenly turned laggy and glitched, I also set my graphics to the lowest and it's still the same.",
+          "text": "I really love this game and I started during the pre-registration but this is my first time experiencing a problem during the game. Every time I used SP Silver Wolf's Burst my phone suddenly turned laggy and glitched, I also set my graphics to the lowest and it's still the same. Many players experienced this problem and I hope that you fix this soon.",
+          "translation_zh": "每次我使用SP银狼的爆发技能时，手机都会突然变得卡顿和出现故障，我还把画质调到了最低，但情况依然一样。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "混合",
+          "issue_display": "闪退/无法启动",
+          "evidence": "After about 10min of playing it just lags and always crashes out on phone.",
+          "text": "I've played a lot of gachas in the last 10 years and this is by far one of the best in terms of generosity, story, and gameplay. (In my opinion) Edit: Dropped to 2 stars because it is barely playable on a mobile device using silver wolf 999, and or playing currency wars and the idle event. After about 10min of playing it just lags and always crashes out on phone. It's so frustrating having to redo fights because it keeps lagging out and crashing.",
+          "translation_zh": "玩了大约10分钟后，游戏就开始卡顿，而且总是在手机上崩溃。",
+          "entities": [
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "o genshin demorou muito ora carregar, EU QUERO AS MINHAS 300 PRIMOGEMAS AGORA",
+          "text": "o genshin demorou muito ora carregar, EU QUERO AS MINHAS 300 PRIMOGEMAS AGORA PRA EU GIRAR NA NICOLE OU LÁ QUEM VEM NO BANNER",
+          "translation_zh": "原神加载时间太长了，我现在就想要我的300原石！",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "容量が重すぎる (The app size is too large)",
+          "text": "容量が重すぎる",
+          "translation_zh": "容量太大了",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "หลังอัพเดทครบรอบ 3 ปีมาเกมค้างบ่อยมากก (After the 3rd anniversary update, the game freezes frequently)",
+          "text": "รีวิวเกม\nรู้สึกว่าหลังอัพเดทครบรอบ 3 ปีมาเกมค้างบ่อยมากก",
+          "translation_zh": "在更新了三周年版本后，游戏经常卡顿。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "problèmes pour le lancement du jeu très lent et problème de téléchargement pour les ressources",
+          "text": "Excellent graphisme dans les combats avec des musiques de fous, je trouve que les personnages sont vraiment animés et c'est bien pour le côté vivant. Le gacha est bien pour l'instant comme je ne suis pas encore très loin de l'histoire. Et pour farmer je suis en train de comprendre qu'il faut faire des donjons pour améliorer les personnages et avoir leurs buildes. Par contre, je rencontre des problèmes pour le lancement du jeu très lent et problème de téléchargement pour les ressources.",
+          "translation_zh": "游戏启动非常慢，资源下载也有问题。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "2.5.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "40gb? meu cell não aguenta mn, nem consigo mais entrar no jogo",
+          "text": "Não é o tipo de jogo que eu jogaria diáriamente, mas eu devo dizer, os gráficos e o jeito das coisas são mesmo bons, parabéns aos desenvolvedores, superou as minhas expectativas, continue assim 💅👍 mas cara, 40gb? meu cell não aguenta mn, nem consigo mais entrar no jogo de tão maligno q tá, eu gostaria de que esse jogo fosse para computador também.",
+          "translation_zh": "40GB？我的手机受不了，甚至都进不了游戏了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "Meu dispositivo suporta Genshin Impact, mas não aguenta o HSR; gostaria de opção para selecionar quantidade de recursos.",
+          "text": "O meu dispositivo suporta o Genshin Impact de boa, mas não aguenta o HSR. Como isso é possível?! Sinto falta de jogar... Se tivesse a opção de selecionar a quantidade de recursos para ficar mais fácil seria bom.",
+          "translation_zh": "我的设备能运行原神，但无法承受崩坏：星穹铁道；希望能有选项来调整资源使用量。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "性能/卡顿",
+          "evidence": "game começou a travar e dar alguns bugs durante a partida mesmo com os gráficos no mínimo",
+          "text": "MARAVILHOSO! amo demais, porém depois do lançamento da euforia o game começou a travar e dar alguns bugs durante a partida mesmo com os gráficos no mínimo",
+          "translation_zh": "游戏开始卡顿，比赛中即使将画质调到最低也会出现一些bug。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "HSR jadi terasa lambat dan monoton, konten mingguannya terlalu lama untuk diselesaikan",
+          "text": "Entah kenapa rasanya belakangan ini HSR jadi terasa lambat dan monoton jauh dari sebelumnya, terlebih konten mingguannya juga terlalu lama untuk diselesaikan",
+          "translation_zh": "崩坏：星穹铁道感觉变得缓慢且单调，每周的内容完成起来太耗时间了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "ガチャとムービー中のカクつき (stuttering during gacha and movies)",
+          "text": "ガチャとムービー中のカクつき",
+          "translation_zh": "抽卡和动画播放时卡顿",
+          "entities": []
+        }
+      ]
+    },
+    "抽卡付费": {
+      "topic": "抽卡付费",
+      "count": 74,
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 6
+        },
+        {
+          "name": "抽卡保底/50-50",
+          "type": "机制",
+          "count": 3
+        },
+        {
+          "name": "高难挑战/终局",
+          "type": "玩法",
+          "count": 2
+        },
+        {
+          "name": "知更鸟/Robin",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "黄泉/Acheron",
+          "type": "角色",
+          "count": 1
+        },
+        {
+          "name": "混沌回忆",
+          "type": "玩法",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "抽卡/付费",
+          "count": 73,
+          "share": 0.9865
+        },
+        {
+          "name": "支付/退款",
+          "count": 1,
+          "share": 0.0135
+        }
+      ],
+      "samples": [
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.0.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "every single character eventually lose their shine; not even the novaflare reworks do them justice",
+          "text": "Powercreep, don't spend or invest any more time than needed on your characters. I've spent a lot of money over the years on this game only to find every single character eventually lose their shine. Not even the novaflare reworks do them justice. This is not a game, it is a business. Enjoy it at your discretion, but keep in mind at the end of the day it is a gacha.",
+          "translation_zh": "每个角色最终都会失去光彩；即使是诺瓦弗雷尔的重做也无法让他们焕发光芒。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "抽卡/付费",
+          "evidence": "抽卡是米池的，角色是有主推和棄子的，強度是膨脹的，怪物血量是膨脹的，就是福利沒有膨脹",
+          "text": "目前不建議任何對米忽悠這個公司沒有特殊感情的玩家下載任何米家遊戲，只要和米家沾上邊就要有遊戲哪天會爛掉的準備，看看這個願賭服輸的神人遊戲吧，抽卡是米池的，角色是有主推和棄子的，強度是膨脹的，怪物血量是膨脹的，就是福利沒有膨脹，等你花個大保底抽個xp角色然後過一兩個版本版本主推馬上爆殺你的xp角就老實了，只能說願賭服輸吧 ------------ 拋開上面這些，新角色普遍設計都挺不錯的，給你加兩顆星，劇情太久沒過就不討論了呵呵",
+          "translation_zh": "抽卡是米哈游的，角色有主推和弃用的，强度在膨胀，怪物血量也在膨胀，就是福利没有跟着膨胀。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "the game is literally for meta players as a f2p player... your ads are fake ads",
+          "text": "the game is literally for meta players as a f2p player, i don't recommend to play this game, you need a ton of Caracters for challenges it will be boring after 4 month and also your ads are fake ads, not like genshin doing honest adds and doesn't trick the players, and i think this game has higher rate than genshin because genshin haters gave this 5 star and gave genshin 1 star",
+          "translation_zh": "这款游戏完全是为氪金玩家设计的，作为一个免费玩家……你们的广告都是虚假的广告。",
+          "entities": [
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "抽出來後發現三週年會送，垃圾遊戲 (pulled characters only to find they will be given for free at the anniversary, calling the game trash)",
+          "text": "黃泉、知更鳥抽出來後發現三週年會送，垃圾遊戲",
+          "translation_zh": "抽到角色后才发现三周年会免费送，真是垃圾游戏。",
+          "entities": [
+            {
+              "name": "知更鸟/Robin",
+              "type": "角色"
+            },
+            {
+              "name": "黄泉/Acheron",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "60 pulls in 6.6 is diabolical; as an f2p, we need our voices heard",
+          "text": "I only played once. I think it was okay, but I play genshin more, and knowing how both games are in the same company, and this one is doing just fine while they are barely doing anything to improve genshin like add a skip button is insane. I know this review has nothing to do with HSR, but as an f2p, we need our voices heard because 60 pulls in 6.6 is diabolical. okay im off to zzz now and leave another 1 star #DoBetterHoyo",
+          "translation_zh": "6.6版本的60次抽卡简直糟透了；作为免费玩家，我们需要让我们的声音被听见。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "make me invest in a super break team (120$) ... either you make players money worth it or do not steal money just to be worthless in three months",
+          "text": "make me invest in a super break team (120$) for ff just to power creep it,and to finish moc with almost 7 cycles, either you make players money worth it or do not steal money just to be worthless in three months.",
+          "translation_zh": "让我花120美元组建一个超级突破队伍……要么你让玩家的钱花得值，要么别骗钱，结果三个月后一文不值。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "混沌回忆",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "powercreep abusif, fomo ultra, 50/50, endgame p2w",
+          "text": "Bon, powercreep abusif, fomo ultra, 50/50, endgame p2w que demander de plus.",
+          "translation_zh": "过度强化，极度害怕错过，50/50概率，终局付费赢。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "支付/退款",
+          "evidence": "I lost my 50/50 I want a refund",
+          "text": "I love robin, I lost my 50/50 I want a refund",
+          "translation_zh": "我输了50/50，我想要退款。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "知更鸟/Robin",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "3.5.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "膨脹太快 已退坑 (inflation too fast, already quit)",
+          "text": "膨脹太快 已退坑",
+          "translation_zh": "膨胀太快，已经不玩了。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "Way too grindy. horrible amounts of powercreep. You get peanuts for what you give. Unless you are willing to pour in thousands of dollars every gear, you will not have a good experience.",
+          "text": "i've put around 150 dollars in this game. i have played it for a long long time. But the state of it is horrendous. Way too grindy. horrible amounts of powercreep. You get peanuts for what you give. Unless you are willing to pour in thousands of dollars every gear, you will not have a good experience. Mihoyo have gone down a bad path. I have played honkai impact 3rd, one of their oldest games, since it released and each game that came out after and I am sad to say that I now avoid all hoyo games",
+          "translation_zh": "游戏氪金氪得太狠了。力量膨胀严重。付出和回报完全不成正比。除非你愿意在每件装备上花费数千美元，否则体验不会好。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "การตลาดร้ายแรงมาก... ตัวละครถูกPowerCreepเร็วมาก... ตอนนี้คือกลายเป็นเกมหิวเงินสุดๆ",
+          "text": "การตลาดร้ายแรงมาก4ดาวใช้เล่นไม่ได้เลย ตัวละครถูกPowerCreepเร็วมาก ผู้เล่นใหม่เสียอรรถรสเกมเละเทะเลยทั้งๆที่ดาวแรกเป็นดาวที่เนื้อเรื่องซีนต่อสู้สนุกมากแต่พอโดนPowerCreep บอสโดนชิตังเมโป้งทีเดียวตายจบ ตอนนี้คือกลายเป็นเกมหิวเงินสุดๆ",
+          "translation_zh": "营销手段非常恶劣……角色的能力膨胀得非常快……现在已经变成了一个极度贪钱的游戏。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "2.2.0",
+          "rating": 4,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "Character shouldn't have global passive... Predatory practices will not be supported.",
+          "text": "Character shouldn't have global passive. This precedent case marks the downfall of this game. From Genshin to Star Rail, will ZZZ go down the same way? Only time will tell. Predatory practices will not be supported.",
+          "translation_zh": "角色不应该拥有全局被动技能……我们不会支持这种掠夺性行为。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "genshin impact is a beautiful game ruined by greedy people in suits who are only worried about this quarters profit margins",
+          "text": "not for hsr\ngenshin impact is a beautiful game ruined by greedy people in suits who are only worried about this quarters profit margins. if hsr can be generous so can genshin. #boycottgenshinimpact",
+          "translation_zh": "原神是一款美丽的游戏，但被那些只关心本季度利润率、穿着西装的贪婪之人毁了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "complaint about receiving fewer primogems and calling the game greedy",
+          "text": "why this genshin impact give less primogems 📉📉📉📉📉📉📉📉📉📉📉 genshin impact greedy day by day 📈📈📈📈📈📈📈📈📈",
+          "translation_zh": "抱怨获得的原石太少，称游戏太贪婪。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "kr",
+          "region_name": "韩国",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "게임이 타게임 대비해서 너무 비쌈, 퀄리티도 점점 갈수록 떨어지고, 캐릭 쌀먹도 많아짐",
+          "text": "비쌈\n돈 많이 쓰긴햇는데 게임이 타게임 대비해서 너무 비쌈 ㅋㅋ  \n퀄리티도 점점 갈수록 떨어지고 았고 캐릭 쌀먹도 많아짐\n계속 하긴할거지만 다른사람한테 추천은 안할듯",
+          "translation_zh": "这款游戏相比其他游戏太贵了，质量也越来越差，角色的氪金需求也越来越多。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "greedy and time consuming gacha",
+          "text": "Honestly it's a greedy and time consuming gacha,",
+          "translation_zh": "贪婪且非常耗时间的抽卡系统",
+          "entities": []
+        }
+      ]
+    },
+    "抽卡机制": {
+      "topic": "抽卡机制",
+      "count": 19,
+      "entities": [
+        {
+          "name": "抽卡保底/50-50",
+          "type": "机制",
+          "count": 9
+        },
+        {
+          "name": "银狼/Silver Wolf",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 2
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "老角色",
+          "type": "机制",
+          "count": 1
+        },
+        {
+          "name": "刃/Blade",
+          "type": "角色",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "抽卡/付费",
+          "count": 14,
+          "share": 0.7368
+        },
+        {
+          "name": "平衡/难度",
+          "count": 5,
+          "share": 0.2632
+        }
+      ],
+      "samples": [
+        {
+          "store": "app_store",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "新手連續兩次大保底快不想玩了，說好的新手運呢？",
+          "text": "垃圾抽獎機制\n我新手連續兩次大保底快不想玩了，說好的新手運呢？雖然4.2送很多但終究也只是小補而已",
+          "translation_zh": "新手连续两次大保底，快不想玩了，承诺的新手运气呢？",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "玩了每一把都差一隻銀狼，拉完了這遊戲 (Every game I play, I am just missing one Silver Wolf, after pulling I quit the game)",
+          "text": "玩了每一把都差一隻銀狼，拉完了這遊戲",
+          "translation_zh": "每局游戏我都差一只银狼，抽完就不玩了。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "\"SISTEM GACHA NYA DI PERBAIKI\", \"Powercreep juga jangan sering sering\", \"Character Lama tuh di buff, Jangan Di anggurin aja\"",
+          "text": "Overall Bagus Yh, Tapi Kalo bisa \"SISTEM GACHA\" NYA DI \"PERBAIKI\" KARENA \"SELALU HARD PITY\" ,terus Powercreep juga jangan sering sering , iya gw tau Sistem Gacha light cone di Permudah, jadi Rate nya 75%,tapi tetep aja,hard pity,gw tau ini game gacha,tapi menurut gw di gacha Character masih Susah BANGET,ini SUPER BERLEBIHAN. terus kalo bisa Character Lama tuh di buff, Jangan Di anggurin aja, rilis Character doang tapi Di anggurin, Di harapkan kedepannya semoga lebih baik lagi ya",
+          "translation_zh": "“请修复抽卡系统”，“不要频繁加强新角色导致旧角色变弱”，“老角色要加强，不要放着不用”",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "老角色",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "player New gacha udah lebih 100× ngak dapat apa apa",
+          "text": "sistem gacha sampahhhh!!!, player New gacha udah lebih 100× ngak dapat apa apa, perbaiki lagi sistemnya lha",
+          "translation_zh": "玩家新抽卡已经超过100次了，什么都没得到。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "3.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "50%池就是造成付費體驗糟糕的原因啦！花錢拿好品質是理所當然懂嗎？",
+          "text": "三週年剛改完版當天，抽了銀狼999卡池一金歪了刃，已卸載這垃圾毒瘤50%池遊戲（忍到三週年才卸載對你很好了中間還讓你能多少賺到錢），一隻新角色靠補抽數少說也要花4-5小朋友，你以為多便宜？整天跟沒保底的公司比爛喔？整天活在自己沒其他公司爛的幻想，50%池就是造成付費體驗糟糕的原因啦！花錢拿好品質是理所當然懂嗎？常駐角色乖乖去常駐是多難？應該是難在沒辦法坑玩家更多錢啦！！！",
+          "translation_zh": "50%概率池就是导致付费体验糟糕的原因！花钱拿到好品质是理所当然的，懂吗？",
+          "entities": [
+            {
+              "name": "刃/Blade",
+              "type": "角色"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "The user complains about the 80 pity rate off and never getting characters at low pity despite using special tickets.",
+          "text": "Jujur aja gw maen nih game belum 1 tahun dari September kemarin, untuk story menurut gw kadang bikin semangat kadang bikin ngantuk. Tapi yang bikin gw kesel sama nih game yaitu sistem gacha nya yang bener² PARAH!. Dari pertama kali gw gacha karakter pake tiket spesial, itu gak pernah sekalipun dapetnya di low pity, yang lebih parahnya lagi 80 pity malah dapet rate off. Ini sumpah parah banget buat player f2p kek gw. Saran gw mending hapus itu 80 pity rate off, ganti pity ke 100 dapet charnya.",
+          "translation_zh": "用户抱怨80保底机制失效，尽管使用了特殊票券，低保时却从未获得角色。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "すり抜けてまた天井ばかりで気が滅入る (getting only pity pulls repeatedly is depressing)",
+          "text": "すり抜けてまた天井ばかりで気が滅入る。",
+          "translation_zh": "一直抽到重复的角色，天井也老是触发，真让人心情低落。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "抽162抽牢到翁法羅斯 (pulled 162 times but only got one character)",
+          "text": "我小帳飛鷹抽162抽牢到翁法羅斯",
+          "translation_zh": "抽了162次才抽到翁法羅斯",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "one guaranteed 5star character requires 90 wishes... they will be giving ONLY 64 WISHES",
+          "text": "Im gonna talk about the other game of this company. Company doesnt think about free to play players. if we talk about the gacha system. it is absolutely \"gambling\". one guaranteed 5star (high rarity) character requires 90 wishes, If you win, you get the limited time banner chaarcter that you wanted, played the game and saved hundreds of wishes for them. If you \"LOSE\" You need another 90 and that makes it total of \"180 Wishes\" And now, the thing is... they will be giving \"ONLY 64 WISHES\"...",
+          "translation_zh": "一个保证获得五星角色需要90次祈愿……但他们只会给64次祈愿。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "米家的抽卡系統不是無課跟大小月卡可以愉快完的...整個版本體驗跟心情都會讓人想刪除遊戲...畫面、劇情、抽卡老實說都趨於平凡了",
+          "text": "只能說米家的抽卡系統不是無課跟大小月卡可以愉快完的 但凡一次歪池 整個版本體驗跟心情都會讓人想刪除遊戲 2026來說畫面、劇情、抽卡老實說都趨於平凡了 開服玩家還勉強能繼續 新手要入坑的話三思吧",
+          "translation_zh": "米家的抽卡系统不是不氪金和买大小月卡就能愉快玩的……整个版本的体验和心情都会让人想删游戏……画面、剧情、抽卡说实话都变得很普通了。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "ゴミガチャとゴミインフレのクソゲーです (trash gacha and trash inflation)",
+          "text": "寵愛クソゲー\nゴミガチャとゴミインフレのクソゲーです",
+          "translation_zh": "这是个垃圾抽卡和垃圾通胀的烂游戏。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "the gacha system is ridiculous, waiting months for a character",
+          "text": "Jogo bonito, divertido, porém o sistema gacha é ridículo. Se tu quer um personagem pode ter de esperar meses pra ele aparecer. Isso beira o nojento.",
+          "translation_zh": "抽卡系统太离谱了，得等好几个月才能抽到一个角色。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "the only problem is the gasha game",
+          "text": "I love this game but the only problem is the gasha game",
+          "translation_zh": "唯一的问题是抽卡游戏。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "kr",
+          "region_name": "韩国",
+          "version": "2.4.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "돈만 랄럴습니다 (only losing money) and issues with character pull rates",
+          "text": "운리를 뽑기하는데 70자에세안나우구90자와100자를돌러는더 안나와서 돈만 랄럴습니다",
+          "translation_zh": "只会亏钱，角色抽取概率也有问题。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "Unfriedly gacha",
+          "text": "Unfriedly gacha",
+          "translation_zh": "不友好的抽卡系统",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "masa rate off berkali-kali dapet chara std... Jujur, udah ga seasik yang dulu",
+          "text": "Honestly, aku main dari tahun 2022. Sempat ada jeda 1 tahun gak main HSR ini. Menurutku lebih better yang tahun lalu kalau sistem gachanya. Tolong diperbaiki lagi, masa rate off berkali-kali dapet chara std. Padahal jeda 1 thn harusnya rate on. Jujur, udah ga seasik yang dulu. Padahal lagi butuh banget chara buat SU, DU, etc. Belum lagi komunnya suka flexing, cenderung toxic. Maybe say goodbye, udah bukan eranya lagi main game ini",
+          "translation_zh": "频繁出现角色掉率降低……说实话，已经没有以前那么好玩了。",
+          "entities": []
+        }
+      ]
+    },
+    "游戏品质": {
+      "topic": "游戏品质",
+      "count": 24,
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 2
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "其他：泛负评/未说明",
+          "count": 13,
+          "share": 0.5417
+        },
+        {
+          "name": "内容/剧情/活动",
+          "count": 4,
+          "share": 0.1667
+        },
+        {
+          "name": "平衡/难度",
+          "count": 2,
+          "share": 0.0833
+        },
+        {
+          "name": "更新后回退",
+          "count": 2,
+          "share": 0.0833
+        },
+        {
+          "name": "性能/卡顿",
+          "count": 1,
+          "share": 0.0417
+        }
+      ],
+      "samples": [
+        {
+          "store": "app_store",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "Un très beau jeu et pour un gâcha très généreux seul problème c’est le powercreep",
+          "text": "Qualité du jeu\nUn très beau jeu et pour un gâcha très généreux seul problème c’est le powercreep",
+          "translation_zh": "一款非常漂亮的游戏，且赠送的资源非常慷慨，唯一的问题是数值膨胀太严重。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "game sampah",
+          "text": "game sampah",
+          "translation_zh": "垃圾游戏",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "bisa lebih bagus lagi kalau powercreepnya dihilangkan",
+          "text": "gamenya bagus, tapi bisa lebih bagus lagi kalau powercreepnya dihilangkan",
+          "translation_zh": "如果能去除数值膨胀，游戏会更好。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "I changed my mind this game is terrible",
+          "text": "I changed my mind this game is terrible 🗑",
+          "translation_zh": "我改变主意了，这游戏太糟糕了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "内容/剧情/活动",
+          "evidence": "it's so sad how low this games has turned into something like now",
+          "text": "it's so sad how low this games has turned into something like now",
+          "translation_zh": "这款游戏变成现在这样，真让人感到非常难过。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "kr",
+          "region_name": "韩国",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "애매뒤진게임 (roughly translates to 'vaguely dead game' or 'game is disappointing')",
+          "text": "애매뒤진게임",
+          "translation_zh": "模糊不清的烂游戏",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "性能/卡顿",
+          "evidence": "เกมกากหลังๆ (The game has become bad recently)",
+          "text": "เกมกากหลังๆ",
+          "translation_zh": "游戏最近变得很烂",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "kr",
+          "region_name": "韩国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "인생 최고의 망겜 (worst game of my life)",
+          "text": "인생 최고의 망겜",
+          "translation_zh": "人生中玩过的最烂游戏",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "2.3.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "垃圾遊戲 (trash game)",
+          "text": "垃圾遊戲OwO",
+          "translation_zh": "垃圾游戏",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "ruim demais",
+          "text": "ruim demais",
+          "translation_zh": "太糟糕了",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "更新后回退",
+          "evidence": "não é mais o que já foi um dia (it's no longer what it once was)",
+          "text": "não é mais o que já foi um dia",
+          "translation_zh": "它已经不再是曾经的样子了。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "更新后回退",
+          "evidence": "Fell off",
+          "text": "Fell off",
+          "translation_zh": "掉线了",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "เกมกากครับผมหลุดเรท (เกมดีนะครับ) translates to 'The game is bad, I lost rating (the game is good though)'",
+          "text": "เกมกากครับผมหลุดเรท (เกมดีนะครับ)",
+          "translation_zh": "游戏很烂，我掉段了（不过游戏本身挺好的）。",
+          "entities": []
+        },
+        {
+          "store": "app_store",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "功能异常",
+          "evidence": "เกมดี (good game), หลุดเรทบ่อย (frequent rating drops)",
+          "text": "เกมดี\nหลุดเรทบ่อย",
+          "translation_zh": "游戏不错，但评分经常下滑。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "负向",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "Busuk (Indonesian for 'rotten' or 'bad')",
+          "text": "Busuk",
+          "translation_zh": "Busuk（印尼语，意为“腐烂”或“糟糕”）",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "其他：泛负评/未说明",
+          "evidence": "é bom mas tem seus problemas",
+          "text": "é bom mas tem seus problemas",
+          "translation_zh": "挺好的，但也有一些问题。",
+          "entities": []
+        }
+      ]
+    },
+    "游戏平衡": {
+      "topic": "游戏平衡",
+      "count": 94,
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 52
+        },
+        {
+          "name": "高难挑战/终局",
+          "type": "玩法",
+          "count": 11
+        },
+        {
+          "name": "抽卡保底/50-50",
+          "type": "机制",
+          "count": 11
+        },
+        {
+          "name": "老角色",
+          "type": "机制",
+          "count": 6
+        },
+        {
+          "name": "四星角色",
+          "type": "机制",
+          "count": 5
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 5
+        },
+        {
+          "name": "遐蝶/Castorice",
+          "type": "角色",
+          "count": 3
+        },
+        {
+          "name": "银狼/Silver Wolf",
+          "type": "角色",
+          "count": 3
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "平衡/难度",
+          "count": 93,
+          "share": 0.9894
+        },
+        {
+          "name": "抽卡/付费",
+          "count": 1,
+          "share": 0.0106
+        }
+      ],
+      "samples": [
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "HP inflation makes older characters weaker; no new 4-star characters released recently.",
+          "text": "semakin lama HP inflation semakin terasa. karakter castorice yang dulunya kuat sekali saja sudah kurang berasa di bos terbaru. apa kabar dengan karakter standar banner yang udah gak pernah kepakai? juga karakter bintang 4 udah gak pernah rilis lagi, terakhir pun si moze. buat apa ada karakter bintang 5 kalau karakter bintang 4nya tidak ada? kalau karakter amphoreus masih make sense, tapi kalau di planarcadia gak bakalan ada bintang 4 terbaru parah betul sih ini game",
+          "translation_zh": "生命值膨胀导致老角色变弱；最近没有新4星角色发布。",
+          "entities": [
+            {
+              "name": "四星角色",
+              "type": "机制"
+            },
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "老角色",
+              "type": "机制"
+            },
+            {
+              "name": "遐蝶/Castorice",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "vn",
+          "region_name": "越南",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "Stop increase boss hp pls",
+          "text": "Stop increase boss hp pls",
+          "translation_zh": "请不要再增加Boss的血量了，拜托了。",
+          "entities": [
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "still losing rate off in hard pity, tired of collecting Stellar jade rerun, better uninstall",
+          "text": "Kenapa masih main jg, kembali karena silver wolf lv. 999 , tapi tetap masih kalah rate off di hard pity, capek ngumpulin Stellar jade rerun kapan lagi, mending uninstall",
+          "translation_zh": "在硬保底时仍然掉率，厌倦了收集星辉玉重置，还是卸载算了。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "歪機制有時很逆天（我最高連續歪6次）...boss及怪一個版本比一個版本變態...希望官方可以做更多遊戲抽卡及角色優化，以及平行性調整和重造舊角色特效及形象...再增加更多常註活動",
+          "text": "劇情、遊戲、角色設計也不錯,但歪機制有時很逆天（我最高連續歪6次）。回合制遊戲的缺點是數值變化大，一個角色的大招可能比不過某角色的戰技，boss及怪一個版本比一個版本變態（特效、血量、傷害等）。不過,每次版本福利也不差,只要肯干活動、每日任務、每周一次宇宙、主線等,平民至少也可以一個版本就可以抽出一個5星角色。面對數值大以及部分角色需命座提升,對平民、小課及抽卡非酋的玩家十分之不公平,希望官方可以做更多遊戲抽卡及角色優化，以及平行性調整和重造舊角色特效及形象等。如果可以,再增加更多常註活動,以免過快進入長草期。希望官方未來更新及劇情別讓我們失望，加油！（願此行 終抵群星）",
+          "translation_zh": "歪机制有时候非常逆天（我最高连续歪了6次）……boss和怪物一个版本比一个版本变态……希望官方能做更多游戏抽卡和角色优化，以及平衡性调整和重做旧角色的特效和形象……再增加更多常驻活动。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "老角色",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "meta te obrigando a ter tal personagem; não lançarem mais 4 estrelas, o último tem quase 2 anos",
+          "text": "vou dar um 3/5,eu amo os personagens e a história,mas algumas coisas pecam, por exemplo eu amo variar times e fica dificil fazer isso com o meta te obrigando a ter tal personagem,seria muito bom se vc pudesse fazer pelo menos até o estágio 10 dos endgames com qualquer personagem,isso traria mais diversão e os jogadores nao iriam dropar pela dificuldade,tambem tem o fato de eles não lançarem mais 4 estrelas,o último tem quase 2 anos ,os personagens 4 estrelas sao como coringas,podiam ter mais.",
+          "translation_zh": "游戏机制强制你必须拥有某个角色；不再推出4星角色，最后一个差不多是两年前的了。",
+          "entities": [
+            {
+              "name": "四星角色",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "enemy nya terlalu kuat ... damage enemy gak ngotak ... enemy tebal gak papa asal damage nya jangan terlalu gila",
+          "text": "ku kasih 5 star biar di baca game udh bagus gameplay,story,map,event,dll udh oke , cuma 1 aja yg bikin kesal , enemy nya terlalu kuat , buat saya sebagai player yg gak terlalu mikir build , cuma liat karakter kalo saya suka saya up , damage enemy gak ngotak , di tambah kalo player yg lama vakum terus comeback main lagi , kayak sampah banget karakter ku , enemy tebal gak papa asal damage nya jangan terlalu gila , ini turnbase bukan high and slash yg bisa dogde,counter attack, dll , cuma itu aja",
+          "translation_zh": "敌人喵太强了……敌人的伤害不合理……敌人防御厚没关系，但伤害别太夸张。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "powercreep sur ce jeu est aberrant; ça fait quand même bientôt 1 an qu'on a pas eu de quatre étoiles",
+          "text": "en vrai le jeu est très très bien mais je ne mets pas cinq étoiles car déjà ça fait quand même bientôt 1 an qu'on a pas eu de quatre étoiles,ça commence à faire beaucoup et aussi car le powercreep sur ce jeu est aberrant, et d'ailleurs avis controversé mais le passif global de castorice ne me dérange vraiment pas. mais à part ça le jeu est bien et j'y joue depuis la première semaine",
+          "translation_zh": "这款游戏的数值膨胀问题非常严重；差不多快一年了，我们都没有获得过四星角色。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "遐蝶/Castorice",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "really really big power creep for the character and a boss with a lot of lot of hp... the silver wolf new look... just look like she untie her hair and add some decoration",
+          "text": "i really like this game but I think there is a problem bc there are really really big power creep for the character and a boss with a lot of lot of hp so it's hard to clear them up in late games something and the character design are great but sometimes its just yk not that great like that silver wolf new look it's just look like she untie her hair and add some decoration and the devs just called it a day like atleast made it kinda looks good but I don't hate this game it's my fav game.",
+          "translation_zh": "角色的实力提升非常非常大，boss的血量也多得惊人……银狼的新造型……看起来就像是她解开了头发，戴上了一些装饰品。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "complaints about hard pity, lack of male characters, HP inflation, and boredom in endgame",
+          "text": "1. SAKIT SEKALI JIKA SUDAH HARD PITY, MALAH KALAH RATE OFF 2. PERBANYAK EVENT LAGI 3. PERMUDAH DAN PERBANYAK SUMBER STELLAR JADE, APALAGI KALAU SUDAH MASUK MODE ENDGAME, GAADA YG DIMAININ BOSEN 4. SEIMBANGKAN LAGI MALE DGN FEMALE CHARACTER, KITA KEKURANGAN MALE CHARACTER SPEK PHAINON YANG BISA CLEAR ALL ENDGAME DAN OP 5. HP INFLATION DI ENDGAME JANGAN TERLALU BANYAK 6. kurangi yapping di story, to the point dan perbanyak cutscene 7. perluas map dan perbanyak chest. 8. ada gilgamesh = PEAK(⭐+1)",
+          "translation_zh": "关于硬保底机制、男性角色缺乏、生命值膨胀以及后期游戏无聊的抱怨。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": null,
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "ゲームのインフレが激しすぎる。新しいキャラがやたら強く、自分の好きで引いたキャラはどんどん廃れていきます。最新キャラに昔のキャラのコピーが多い。ストーリーが抽象的で分かりづらく、魅力も分からずじまいで断念しました。",
+          "text": "オンパロス編を終わらせたところでプレイするのをやめた人のレビューです。 その理由としてまず、ゲームのインフレが激しすぎる。 新しいキャラがやたら強く、自分の好きで引いたキャラはどんどん廃れていきます。最近は過去キャラに強化が加えられていますが、接待がひどくペースも遅いです。 2つ目は、最新キャラに昔のキャラのコピーが多い。 銀狼、たんこうなど、昔のキャラが変身?したみたいなキャラが出てきているが、どうしてもコピーしました感が歪めない。一つのパーティに同じ顔をしたキャラが2人いるのを見るたびに違和感を覚える。 3つ目、ストーリーが微妙。 自分はベロブルグ編、ピノコニー編までは好きだったが、それ以降のオンパロスはストーリーが抽象的で分かりづらく、魅力も分からずじまいで断念しました。 個人的に感じたことですが、一つのマップの中でのストーリーは進むが、ゲームの本流となるストーリーはあまり進まなくなってしまったように感じます。 これからこのゲームを始める人は参考程度に見て頂けると幸いです。",
+          "translation_zh": "游戏的数值膨胀太严重了。新角色特别强，而自己喜欢抽到的角色却越来越没用。最新角色中有很多是旧角色的复制品。剧情抽象难懂，没能感受到魅力，最后只能放弃了。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "problems with power creeping and a lack of new 4 stars; dislike of attack names for Arlan",
+          "text": "The game is very self paced, the stories themselves are great and the unique puzzles that come with it, but there are a lot of problems with power creeping and a lack of new 4 stars. It feels like getting the latest character isn't worth it because it will get replaced by a more OP one next patch. A personal gripe I have with the game is Arlan's attack names. With him being the only somewhat darker skinned character, can his attacks not be called \"Shackle Breaker\" and \"Quick Harvest\"? Thanks.",
+          "translation_zh": "存在战力膨胀问题且缺乏新的4星角色；不喜欢Arlan的攻击名称。",
+          "entities": [
+            {
+              "name": "四星角色",
+              "type": "机制"
+            },
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "powercreepnya jangan terlalu intens banget... sebagai f2p lumayan susah buat kejar tim premium... inflasi hp musuhnya JANGAN GEDE GEDE BANGET",
+          "text": "main game ini semenjak pre-register, jujur jatuh cinta sama storynya + tidak kikir tapi TOLONG 🙏🙏 powercreepnya jangan terlalu intens banget lah. mau ga mau harus kejar meta, sebagai f2p lumayan susah buat kejar tim premium (termasuk eidolon). terus juga inflasi hp musuhnya JANGAN GEDE GEDE BANGET lah, main currency war aja gila banget hp musuhnya..",
+          "translation_zh": "别让能力膨胀太严重……作为免费玩家，追赶付费队伍挺难的……敌人的血量别涨得太高太多。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "powercreep is awful... every new character is a 5*... quests are so boring to look at... generous rewards",
+          "text": "amazing character design and plot, but powercreep is awful. please release another 4*, every new character is a 5* (so far), meaning literally zero f2p options... the quests are so boring to look at, I know you can afford more character movements in non-cutscenes. I do love the (fairly) generous rewards though!",
+          "translation_zh": "数值膨胀太严重了……每个新角色都是五星……任务看起来非常无聊……奖励还算慷慨。",
+          "entities": [
+            {
+              "name": "四星角色",
+              "type": "机制"
+            },
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "personagens sofrem com powercreep muiito rapido e você se ve obrigado a ir atras de times meta",
+          "text": "O jogo é muito bom, com uma variedade de personagens e conteudo grande, um história ainda melhor, só peca na parte de que os personagens sofrem com powercreep muiito rapido e você se ve obrigado a ir atras de times meta, do contrario seu resultado em endgame se torna mediocre 🥲",
+          "translation_zh": "角色的强度膨胀非常快，你不得不去追随主流阵容。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "power Creep incessant. Et avec castorice ça empire. je mettrai une meilleure note, quand ils régleront/éviteront le problème",
+          "text": "bon jeu, bonne histoire mais power Creep incessant. Et avec castorice ça empire. je mettrai une meilleure note, quand ils régleront/éviteront le problème",
+          "translation_zh": "能力膨胀不断加剧。加上Castorice，情况更糟了。等他们解决或避免这个问题，我会给出更高的评分。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "遐蝶/Castorice",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "kurang-kurangi masalah powercreep sama inflasi hp",
+          "text": "kurang-kurangi masalah powercreep sama inflasi hp, dah itu doang",
+          "translation_zh": "减少一下属性膨胀和血量通胀的问题。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        }
+      ]
+    },
+    "玩法体验": {
+      "topic": "玩法体验",
+      "count": 53,
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 9
+        },
+        {
+          "name": "高难挑战/终局",
+          "type": "玩法",
+          "count": 3
+        },
+        {
+          "name": "抽卡保底/50-50",
+          "type": "机制",
+          "count": 3
+        },
+        {
+          "name": "Saber/Fate 联动",
+          "type": "活动/联动",
+          "count": 2
+        },
+        {
+          "name": "流萤/Firefly/Sam",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "景元/Jing Yuan",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "老角色",
+          "type": "机制",
+          "count": 2
+        },
+        {
+          "name": "花火/Sparkle",
+          "type": "角色",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "内容/剧情/活动",
+          "count": 17,
+          "share": 0.3208
+        },
+        {
+          "name": "平衡/难度",
+          "count": 15,
+          "share": 0.283
+        },
+        {
+          "name": "抽卡/付费",
+          "count": 10,
+          "share": 0.1887
+        },
+        {
+          "name": "其他：泛负评/未说明",
+          "count": 4,
+          "share": 0.0755
+        },
+        {
+          "name": "无明显问题",
+          "count": 3,
+          "share": 0.0566
+        }
+      ],
+      "samples": [
+        {
+          "store": "app_store",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "Good: turn-based auto-play, story, character design; Bad: fast inflation, many characters needed, large storage size",
+          "text": "ホヨゲー初めての人にオススメ\nタイトル通り、原神・ゼンゼロ・スタレどれやろう…と迷っている人にはスタレをお勧めします。\n\n▪️良いところ\n①ターン制でオートで殴れるので時間がない学生さんとかにもオススメ。必殺がかなり早めに溜まるので、敵に殴られてる時割り込めたり、ターン制ならではの悪いところがかなり改善されててすごい。\n②石が結構溜まる。強いキャラは早めに復刻が来るので体感はインフレしてても追いつける(ソロゲーなので気にしなければ良いっちゃいい)と思います。\n③ストーリーが面白い。伏線結構張ってあったり、考察　　要素多めでかなり読み応えがあるストーリーとなっております。個人的にピノコニーまで進めればあとは絶対ハマる…はずです。演出が特に豪華になってくるので。\n④キャラデザ豊富。かっこいいお姉さんお兄さん多めの現代風(オンパロス組除く)の衣装です。私はドストライクゾーンでした！！ありがとうミホヨ。\n(因みに私の推しはヘルタと花火です)\n\n▪️悪いところ\n・インフレが早い\n高難易度ボスが更新されるのですが、明らかにこのキャラいないと無理だろみたいなのがあります。今は愉悦環境がどんどん進んでおります。\n・引かないといけないキャラが多い\n上に繋がりますが、結構2パーティ必要なステージがあるので、特に耐久はなるべく多い方がいいとは思います。ですが石配布が多いのでその分って感じです。\n・容量が多い\n40GB以上は持ってかれます。これに関してはスペックを合わせて下さいとしか…\n\n以上、まとめてみました。長文だったので伝わりづらいかもしれませんが、今3周年なのでぜひ！始めてみて下さい！\n\nFateファンへ\nFate UBWコラボ第二弾きます。ギルまたはエミヤが配布されます。凛さんも実装されます…始めるしかないよね…？",
+          "translation_zh": "优点：回合制自动战斗、剧情、角色设计；缺点：通货膨胀快，需要很多角色，存储空间大。",
+          "entities": [
+            {
+              "name": "Saber/Fate 联动",
+              "type": "活动/联动"
+            },
+            {
+              "name": "大黑塔/The Herta",
+              "type": "角色"
+            },
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "花火/Sparkle",
+              "type": "角色"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "bos ny udah susah tpi krkter blm kebuild",
+          "text": "Saya sudah bermain hsr selama satu tahun ini. Menurutku hsr ini ckp ramah untuk pemula, karena akan mendapatkan bbrp bansos dan reward yang lumayan banyak bila rajin mengerjakan quest. Untuk story dari hsr menurutku lumayan ABSOLUTE CINEMA, cerita yang bagus walaupun dalam dialog ekspresi tiap karakter datar. Dari segi gameplay tergantung ya untuk turnbase. Tp skrg mlsny itu klo udah lvl 40-50 an itu bos ny udah susah tpi krkter blm kebuild. Sy brtrmksh hsr spai skrg, sy hri ini pensi dr sini!",
+          "translation_zh": "角色已经很难获得了，但还没能培养好。",
+          "entities": [
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "kr",
+          "region_name": "韩国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "抽卡/付费",
+          "evidence": "뽑기를 200번정도? ... 90번정도 천장을 채워서 5성을 뽑는데 픽뚫때문에 진짜 순간 게임 뜨고 싶었어요. ... 퀘스트를 깨는데 97퍼센트가 여기저기 이동하고 3퍼센트가 싸우는 느낌이에요.",
+          "text": "장점 1. 게임이 전체적으로 재밌어요. 하다보면 이것저것 미니게임도 나오는데 거의 웬만하면 챙겨서 하고 있어요. 2. 캐릭들이 전부 매력있고 예뻐요. 3. 캐릭 육성하는 재미가 있고 전투도 은근 재밌어요. 단점 1. 일단 뭔가 복잡해요. 퀘스트를 깨는데 97퍼센트가 여기저기 이동하고 3퍼센트가 싸우는 느낌이에요. 하다보면 게속 저도 모르게 졸고 있어요. 2. 제가 지금 일주일정도 플레이하면서 뽑기를 200번정도? 뽑은 거 같은데 중간에 90번정도 천장을 채워서 5성을 뽑는데 픽뚫때문에 진짜 순간 게임 뜨고 싶었어요. 거의 일주일중 절반의 시간이 날아간 느낌이에요.",
+          "translation_zh": "抽了大约200次？大约90次达到了保底才抽到五星，因为抽卡池的限制，真的一度想退出游戏……完成任务的时候感觉97%的时间都在到处跑，只有3%的时间在战斗。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "内容/剧情/活动",
+          "evidence": "余計なギミックが多すぎて疲れる…話が長すぎる…イベントの報酬クエストに面倒なものが多い…キャラは好きなので、まだまだ続けたいです！",
+          "text": "今のところ面白いです\n原神を1年ほど前からスタートして現在もプレイ中ですが、スターレイルはfateコラボが気になってはじめました。\n残念なことにセイバーはすぐに2軍落ちしましたが、ほかに魅力的なキャラが多く、今も継続しています。キャストリスはコスまで買ってしまいました。\n映像はさることながら、UIも同社の原神を踏まえて、より操作しやすくなっていますし、なんと言ってもストーリースキップが出来るようになっているのは大きい！デイリークエストも原神より楽々です。\nこのように、スターレイルは隙間時間でもプレイできるので、原神よりプレイする時間が増えました(かといって、原神がゲームとしてつまらないのではなく、原神も等しく好きです)\nただ、改善して欲しい点もあります。\n◉余計な？ギミックが多すぎて疲れる。「また、これか…」と思うようになり、疲れる。新たなギミックを色々考えられており、すごいなぁと思う一方、話を容易に進めさせないための措置に感じでイライラしてしまう。\n◉一旦終わった？と思ったらまだまだ続く…みたいな展開ばかりで疲れる。次の展開になるまでの幕間？のような話が長すぎる。少し冗長を感じる…\n◉原神同様、余計な台詞が多めで読むのがしんどいことも。もう少しまとめて欲しい。\n◉RPGなのに戦闘が少なめ。話ばかりでしんどくなることがある。\n◉復活するタイプの雑魚敵がうっとおしく、少しイライラする。\n◉イベントの報酬クエストに面倒なものが多かったり、ストーリーと乖離しすぎたりしてやる気が下がる。報酬が欲しいのでやっているが、あまりこれが続くと飽きてしまいそう…(原神もそういうところが多い)キャラは好きなので飽きないようにして欲しい。簡単には報酬をやらないぞ、というソシャゲにありがちなイベント報酬となっており、他ゲームでもそれがしんどくて辞めるキッカケになる。\n◾️色々書きましたが、どうかご検討のほどよろしくお願いします！キャラは好きなので、まだまだ続けたいです！これからも応援しています！",
+          "translation_zh": "太多多余的机制让人感到疲惫……剧情太长了……活动奖励任务中有很多麻烦的内容……不过我喜欢角色，所以还想继续玩下去！",
+          "entities": [
+            {
+              "name": "Saber/Fate 联动",
+              "type": "活动/联动"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "内容/剧情/活动",
+          "evidence": "‘ini tim pengembang nya sudah kehabisan ide’, ‘ai nya susah bngt, jadi hilang feel bermain game’",
+          "text": "sebenernya fokus game ini tuh apa sih? Turn base, upgrade karakter sama story atau game arcade sih, kalau side quest berhubungan sama pengembangan karakter oke lah, ini apaan game kyk candy crush saga segala di masukin, ini tim pengembang nya sudah kehabisan ide atau gmna? saya selaku player yang menikmati story nya merasa jijik melihat hsr jadi seperti ini, mending² ai nya mudah lah ini ai nya susah bngt, jadi hilang feel bermain game hsr ini",
+          "translation_zh": "“这个开发团队已经没有创意了”，“AI太难了，玩游戏的感觉都没了”",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "内容/剧情/活动",
+          "evidence": "官方已經很久沒出新四星了...大家退坑都算情有可原...給崩鐵打4星主要都是音樂的部分",
+          "text": "其實老角色也沒有玩不下去（除非你景元玩家ww）像本人零課至今還用鏡流0+1 鴨鴨1+1 阮梅 希露卡6+5 大世界體驗都還行 主線也都打的過 至於其他的 其實有沒有打滿不是很重要（主要我是卡等級萌新(⁠ㆁ⁠ω⁠ㆁ⁠) 不過官方已經很久沒出新四星了 搞不好之後會有六星角色也說不定（？）還有一個就是其實我覺得大家都搞錯了一個重點 這是「遊戲」不是什麼強迫你買賣的地方 所以你不課其實也是可以 啊不過大家都老玩家 那些曾經舊版本的神（大家懂得都懂哈）是真的沒辦法 所以其實大家退坑都算情有可原（畢竟常常退坑再回去的我也差不多） 其實給崩鐵打4星主要都是音樂的部分ww",
+          "translation_zh": "官方已经很久没出新的四星角色了……大家选择退坑也情有可原……给崩铁打4星主要是因为音乐部分。",
+          "entities": [
+            {
+              "name": "四星角色",
+              "type": "机制"
+            },
+            {
+              "name": "景元/Jing Yuan",
+              "type": "角色"
+            },
+            {
+              "name": "老角色",
+              "type": "机制"
+            },
+            {
+              "name": "镜流/Jingliu",
+              "type": "角色"
+            },
+            {
+              "name": "阮梅/Ruan Mei",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "ตัวเก่าๆมันค่อนข้างจะเล่นไม่ได้แล้วและอีกอย่างคือค่อนข้างจะเกลือ",
+          "text": "เกมดีเนื้อเรื่องดีแต่ข้อเสียคือตัวเก่าๆมันค่อนข้างจะเล่นไม่ได้แล้วและอีกอย่างคือค่อนข้างจะเกลือด้วยแต่ก็พอถูไถไปได้อยู่",
+          "translation_zh": "旧版本基本上已经无法玩了，另外游戏体验也比较糟糕。",
+          "entities": [
+            {
+              "name": "老角色",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "抽卡/付费",
+          "evidence": "從第一次抽景元就直接大保吃滿180抽，後面也沒個80抽不會出金...這次囤了400抽銀狼2+1都抽不到; 劇情文本整個太文謅謅，有些橋段就像是硬要給你塞背景故事",
+          "text": "從開服玩到現在每天玩，現在刪掉了\n我是一路從開服玩到現在的，每個活動都有破，劇情也是全程看完的，這遊戲的玩法跟美術表現都很吸引人，動畫演出也很好看，但從匹諾康尼以後越來越不喜歡了。\n翁法羅斯先不論整體好不好，但劇情文本整個太文謅謅，有些橋段就像是硬要給你塞背景故事，看了角色站在那邊講了一堆話，過劇情時有時候都覺得很煩躁。\n建議可以參考鳴潮的表現手法，多一點運鏡，角色可以走動，多點表情變化，會讓人比較沉浸劇情中，也穿插一些動畫來說明故事，不要強塞一堆文本。\n是說我也是常駐非洲的，從第一次抽景元就直接大保吃滿180抽，後面也沒個80抽不會出金，也是玩到現在了，但真的玩不下去了，這次囤了400抽銀狼2+1都抽不到。",
+          "translation_zh": "从第一次抽景元开始就直接大保底，180抽才出，之后80抽内基本不会出金卡……这次囤了400抽，银狼2+1都抽不到；剧情文本整体太生硬，有些桥段感觉像是硬塞背景故事。",
+          "entities": [
+            {
+              "name": "景元/Jing Yuan",
+              "type": "角色"
+            },
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "内容/剧情/活动",
+          "evidence": "The grind is boring and the exploration isn't fun enough; same design from other games.",
+          "text": "I haven't played for years now came back to rewrote my reviews after playing different gacha games. If you want low cortisol game than this game isn't it. The grind is boring and the exploration isn't fun enough. Also It's a turn base game what do you expect~ this game will always bore the hell out of me because they use the same design from other of their games.",
+          "translation_zh": "游戏的重复刷怪很无聊，探索部分也不够有趣；设计和其他游戏差不多。",
+          "entities": [
+            {
+              "name": "流萤/Firefly/Sam",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "quests took WAY too long and the power creep got ridiculous",
+          "text": "Stopped playing because the quests took WAY too long and the power creep got ridiculous. The game was fun at first and I still love the character designs but it just didn't last.",
+          "translation_zh": "任务花了太长时间，且能力膨胀变得荒谬。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "Repetitive gameplay, boring and overly long side quests, power creep is too much, generous with rewards",
+          "text": "VERY good story. Bad storytelling but its worth it for Amphoreus. Overrated sometimes. Repetitive gameplay. Boring and overly long side quests. Generous with rewards. Good character design, at least mostly. Can be very free to play only if you plan well. Power creep is too much. Overworld isnt bad. Exploration is meh, not too shabby. Worth a try if you like quests.",
+          "translation_zh": "玩法重复，支线任务无聊且过长，数值膨胀严重，奖励丰厚。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "the game also has insane power creep but they game is very story heavy",
+          "text": "It was very heartwarming 🥹✌️\nI’ve been playing this game since like the day it came out and overall I don’t regret the game is very generous and has nice characters although the game also has insane power creep but they game is very story heavy which might not be for everyone and also has turn based combat my only major issue with the game is that you will not see them tomorrow.",
+          "translation_zh": "游戏的战力提升非常夸张，但剧情内容非常丰富。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "เกมสนุกดีแต่ปัฯหาเรื่องpowercreepเยอะแต่โดยแล้วเล่นเพลินดี...เพลงต่างในเกมดีมากๆอยากให้ทำพวกAlbumเพลงออกมา",
+          "text": "เกมสนุกดีแต่ปัฯหาเรื่องpowercreepเยอะแต่โดยแล้วเล่นเพลินดีไม่ได้สนใจเรื่องพวกนี้มาก และก็เพลงต่างในเกมดีมากๆอยากให้ทำพวกAlbumเ พลงออกมา",
+          "translation_zh": "游戏很好玩，但存在很多关于战力膨胀的问题，不过整体玩起来很愉快……游戏里的音乐非常棒，希望能出一些音乐专辑。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "แจกของเยอะ...มีข้อเสียแค่ พาวเวอร์คีพ และเนื้อเรื่องที่ส้นตีนไปนิด",
+          "text": "เกมสนุกดีนะครับแจกของเยอะมีข้อเสียแค่ พาวเวอร์คีพ และเนื้อเรื่องที่ส้นตีนไปนิด แต่ยังคงเป็นเกมผมรักเกมนี้นะครับ",
+          "translation_zh": "赠送的东西很多……唯一的缺点就是氪金力度太大，剧情也有点糟糕。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "抽卡/付费",
+          "evidence": "le seul problème est les 50 50",
+          "text": "le jeu est incroyable le seul problème est les 50 50",
+          "translation_zh": "唯一的问题是50/50的情况。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "app_store",
+          "region": "br",
+          "region_name": "巴西",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "Melhor jogo de turno; Power creep",
+          "text": "Melhor jogo de turno\nPower creep",
+          "translation_zh": "最好的回合制游戏；强度膨胀问题",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        }
+      ]
+    },
+    "玩法平衡": {
+      "topic": "玩法平衡",
+      "count": 21,
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制",
+          "count": 10
+        },
+        {
+          "name": "高难挑战/终局",
+          "type": "玩法",
+          "count": 5
+        },
+        {
+          "name": "抽卡保底/50-50",
+          "type": "机制",
+          "count": 2
+        },
+        {
+          "name": "黄泉/Acheron",
+          "type": "角色",
+          "count": 2
+        },
+        {
+          "name": "希儿/Seele",
+          "type": "角色",
+          "count": 1
+        },
+        {
+          "name": "刃/Blade",
+          "type": "角色",
+          "count": 1
+        },
+        {
+          "name": "丹恒/Dan Heng",
+          "type": "角色",
+          "count": 1
+        },
+        {
+          "name": "花火/Sparkle",
+          "type": "角色",
+          "count": 1
+        }
+      ],
+      "issue_breakdown": [
+        {
+          "name": "平衡/难度",
+          "count": 20,
+          "share": 0.9524
+        },
+        {
+          "name": "抽卡/付费",
+          "count": 1,
+          "share": 0.0476
+        }
+      ],
+      "samples": [
+        {
+          "store": "app_store",
+          "region": "fr",
+          "region_name": "法国",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "抽卡/付费",
+          "evidence": "The biggest issue is powercreep and difficulty for F2P players to finish endgame content; some character buffs are well done but others are questionable.",
+          "text": "Excellent, mais…\nJ’ai découvert les jeux hoyoverse peut être un peu comme tout le monde en 2020 avec Genshin Impact, alors je me suis naturellement tourné vers d’autres de leurs jeux et je dois dire que HSR m’a vraiment surpris. Je n’ai pas directement joué à la sortie mais j’en avait entendu parler et n’étant pas un grand fan de jeux tour par tour, (sauf persona) j’étais un peu réticent à l’égard du jeu. Cependant il a réussi à me séduire par ses animations, ses designs, son histoire et le tour par tour très réussi. HSR est l’un des rares jeux où je prend du plaisir à jouer manuellement. Je pensais que j’allais tout faire en auto mais au final le gameplay et les animations satisfaisantes des personnages ont réussi à me captiver. Malgré que je lui ait attribué la note maximale, le jeu comporte quelques défauts qui peuvent en rebuter plus d’un. Le plus gros selon moi serait le powercreep. La meta change très vite et les ennemis deviennent tanky très rapidement. Il est malheureusement compliqué de trouver du plaisir à jouer les anciens personnages (qui n’ont pas reçu de buff) puisque terminer les derniers étages des mémoires du chaos requiers énormément d’investissement. Entre les personnages 5 étoiles injouables sans un autre personnage 5 étoiles, leurs cônes de lumière indispensables et qui parfois ampute une partie de leur kit, la sortie de nouvelles voies comme celle du souvenir qui possède très peu de cône de lumière F2P et qui demande à jouer d’autres personnages du souvenir avec,(schéma qui se reproduit avec l’allégresse), l’absence totale de personnages 4 étoiles depuis plus d’un an, le jeu devient compliqué à suivre en tant que F2P. Bien sûr, c’est un gacha, le but derrière tout ce système est de vous faire sortir votre porte-monnaie malgré la générosité appréciable du jeu. Il est tout de même possible de jouer en F2P bien sûr, j’en suis moi même un, mais attendez vous à ne pas pouvoir finir les endgame avec toutes les étoiles. Pour finir j’aimerais aborder le cas des buff de personnages, (novaflare) qui sont excellents pour certains mais très décevant pour d’autres. Exemple: Blade et Jingliu. Les derniers avec Cygne Noir et Sparkle son vraiment bons mais les prochains me font un peu peur, de part le choix des personnages. Seele et Welt en ont besoin, néanmoins le choix de buff Luciole et Huohuo me semble étrange. Ces deux personnages, bien que sortis il y a plus de 2 ans, sont très bons et n’ont pas besoin de buff. D’autres personnages comme Dan Heng Imbibitor Lunae, Jing Yuan ou Acheron en ont plus besoin que des dps au top de la meta comme Luciole. Fini le côté meta un peu relou pour certains mais le jeu est tout de même d’une qualité rare pour un jeu gratuit, la musique, les effets sonores sont épatants et les différentes planètes possèdent des décors variés et tout aussi beaux les un que les autres. Une qualité digne d’un jeu hoyoverse malgré les quelques défauts inhérents au jeu. Désolé pour le pavé mais j’avais envie d’écrire…",
+          "translation_zh": "最大的问题是数值膨胀和免费玩家完成终局内容的难度；有些角色的增强做得很好，但有些则值得商榷。",
+          "entities": [
+            {
+              "name": "丹恒/Dan Heng",
+              "type": "角色"
+            },
+            {
+              "name": "刃/Blade",
+              "type": "角色"
+            },
+            {
+              "name": "希儿/Seele",
+              "type": "角色"
+            },
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "景元/Jing Yuan",
+              "type": "角色"
+            },
+            {
+              "name": "花火/Sparkle",
+              "type": "角色"
+            },
+            {
+              "name": "镜流/Jingliu",
+              "type": "角色"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            },
+            {
+              "name": "黄泉/Acheron",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "Each new patch a new amazing DPS releases with more and more difficult bosses with insane HP that ruins it. Ive struggled like hell with them as F2P",
+          "text": "Ive played through most of this game as a F2P player, and this might still be my favourite hoyo game: theres a generous amount of freebies as well as the character designs and stories are fantastic. I suppose the one issue I have is something everyone dislikes: powercreep. Each new patch a new amazing DPS releases with more and more difficult bosses with insane HP that ruins it. Ive struggled like hell with them as F2P even if it isnt a final boss.",
+          "translation_zh": "每个新版本都会推出一个超强的DPS角色，同时伴随着越来越难的Boss和变态的高血量，搞得游戏体验很糟糕。作为免费玩家，我真是苦不堪言。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "akun utama dan akun kedua sering mengalami hard pity... cuman kalo bisa sihh tambahin event nya lagi sihh",
+          "text": "hmm dari semenjak tahun 2022 mainin nih game ada satu bikin saya merasa agak kesel dikit akun utama dan akun kedua sering mengalami hard pity 🥀🗿 tapi sisanya bagus banget kok dari grafik skin hadiah event alur cerita dan dll lah masih tergolong bagus.. cuman kalo bisa sihh tambahin event nya lagi sihh hehe.. soalnya saya sangat membutuhkan stellar jade untuk bertahan dari power creep🗿 sekian terimakasih.. 🙏🙏",
+          "translation_zh": "主账号和副账号经常遇到硬保底……不过如果可以的话，希望能多加一些活动。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "power creep is insane though and most older characters can't complete end game content without their premium team",
+          "text": "I quite enjoy this game it's incredibly fun and the visuals are stunning. character design is through the roof with a few notable ones being Acheron and jade. power creep is insane though and most older characters can't complete end game content without their premium team",
+          "translation_zh": "能力膨胀太严重了，大多数老角色没有他们的高级队伍根本无法完成终局内容。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            },
+            {
+              "name": "老角色",
+              "type": "机制"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            },
+            {
+              "name": "黄泉/Acheron",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "tw",
+          "region_name": "中国台湾",
+          "version": "4.2.0",
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "唯一的缺點是銀狼lv.999是彈射傷害，害我都打不到boss",
+          "text": "夯爆了，唯一的缺點是銀狼lv.999是彈射傷害，害我都打不到boss",
+          "translation_zh": "唯一的缺点是银狼lv.999是弹射伤害，导致我根本打不到Boss。",
+          "entities": [
+            {
+              "name": "银狼/Silver Wolf",
+              "type": "角色"
+            },
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "id",
+          "region_name": "印度尼西亚",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "no mode that makes me very interested to play for long, powercreep and enemy HP inflation are crazy, need more support or characters to last at least 1.5 years",
+          "text": "oke dari segi karakter dan cerita bagus,dan untuk pengembangan karakter dalam game juga bagus dan seru,tapi tidak ada mode yang membuat saya sangat tertarik memainkan game ini terlalu lama,ditambah powercreep dan HP inflasi musuhnya gila²an banget. dari segi bansos udah mantep banget tapi nih ya kalo powercreepnya kek gini terus bansos tolong ditambah atau kalau tidak minimal ya 1 tim karakter tuh bisa bertahan setidaknya 1 setengah tahun lah.sebenernya masih banyak yang mau dibahas tp ga cukup.",
+          "translation_zh": "没有哪个模式让我有兴趣长时间玩，数值膨胀和敌人血量增长太夸张了，需要更多的支援或角色，至少能撑1.5年。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "4★ characters didn't came out since 2.5 when Moze was released and the powercreep is insane",
+          "text": "The game is good. The mechanics are good, the story, the designs are extraordinary, and lore is really decent and the rewards are really generous which is pretty good compared to Genshin. It has no flow except that 4★ characters didn't came out since 2.5 when Moze was released and the powercreep is insane. My favorite path is unfortunately down grade. Otherall, it's good.",
+          "translation_zh": "自从2.5版本莫兹发布以来，4星角色就没出过了，而且强度膨胀非常严重。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 3,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "キャラ性能のセット売りが少々厳しいし高難易度も最近ちょっと厳しくなった気がする。運営の好きなキャラへの接待が多いのも残念。キャラの掘り下げができたサブストーリーのようなものがなくなってしまったのが残念。",
+          "text": "楽しい、キャラが魅力的だし戦闘オートにできるので助かってる。ストーリーはピノコニー捕捉編と鉄墓編辺りがもやもやしてるけどそれ以外は楽しめると思う。キャラ性能のセット売りが少々厳しいし高難易度も最近ちょっと厳しくなった気がする。運営の好きなキャラへの接待が多いのも残念、絶対他にも強化欲しいキャラだったり深堀欲しい所があるはず。あとはキャラの掘り下げができたサブストーリーのようなものがなくなってしまったのが残念。色々書いたが遊んでるほよば系列では個人的に一番入り込めて楽しい。",
+          "translation_zh": "角色性能成套出售有点苛刻，最近高难度关卡也感觉变得有些难了。运营偏袒自己喜欢的角色也让人失望。没有了像支线剧情那样能深入挖掘角色的内容，真的很遗憾。",
+          "entities": [
+            {
+              "name": "高难挑战/终局",
+              "type": "玩法"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "I lost my 50/50s 4 times in a row, they should maybe make a guarantee system like Genshin Impact has",
+          "text": "It's a great game with a lovely story and likeable characters, honestly the only thing I can complain about is the fact that I lost my 50/50s 4 times in a row, they should maybe make a guarantee system like Genshin Impact has with capturing radiance",
+          "translation_zh": "我连续输了四次50/50，他们或许应该像原神那样设立一个保底系统。",
+          "entities": [
+            {
+              "name": "抽卡保底/50-50",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "fr",
+          "region_name": "法国",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "le powercreep est terrifiant mais le jeu est globalement très plaisant à jouer",
+          "text": "le powercreep est terrifiant mais le jeu est globalement très plaisant à jouer et c'est tous ce que l'on veut",
+          "translation_zh": "能力膨胀非常可怕，但整体来说游戏玩起来非常愉快。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "jp",
+          "region_name": "日本",
+          "version": "4.2.0",
+          "rating": 2,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "キャラクター：星３。普通。薄味。...男は露骨にパーツも弱めで出されたり...新運命の実装はない。",
+          "text": "バグが直ったので再評価して星２に上げました。 キャラクター：星３。普通。薄味。ストーリーゲーをやってたりキャラゲーをやってた民には物足りないが、別に推しとか作らずやる分には良い。食材はあるけどうまく調理されないことが殆ど。 バトル：星３。環境使うだけでいいから楽。接待揃えるだけのカジュアル系。オート放置が楽。 ストーリー：ヘルタ無（チュートリアルなので）ベロブルグ星４、羅浮星１、ピノコニー星２〜３、オンパロス星１、トータル星２くらいでピノコニーは伸び代があった筈なので温情の３。と見せかけてバナ道でマイナス５億くらいの価値がある。 総評：接待以外と男はスルーで強いpt組めるから計画性が大事。男は露骨にパーツも弱めで出されたり地味に噛み合わなかったり最適遺物放置されたり、周年も飾れないし、新運命の実装はない。美少女ゲーやらせたいなら3rd方式にすればよかったのに、そこが不思議。暇潰しに丁度いい。 主人公のノリが勘違いイタイ系イキリ陰キャオタクくんなので好き嫌い分かれると思う。ギャグが面白いわけでもなくシリアスも違和感がある。唯一性はある。",
+          "translation_zh": "角色：三星。普通。味道淡薄……男性角色的部件明显较弱……没有新的命运系统上线。",
+          "entities": [
+            {
+              "name": "大黑塔/The Herta",
+              "type": "角色"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "FIX HOYO STAR RAIL POWECREEP! ... thanks for making me having fun ... it's fun while last",
+          "text": "FIX HOYO STAR RAIL POWECREEP! (edit) anyway thanks for making me having fun on the first time i play this game until now. it's fun while last",
+          "translation_zh": "修复《星穹铁道》的能力膨胀问题！……感谢你们让我玩得开心……虽然乐趣不长久。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "us",
+          "region_name": "美国",
+          "version": null,
+          "rating": 5,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "makes every character powercreept",
+          "text": "good game, but makes every character powercreept",
+          "translation_zh": "让每个角色的能力都被削弱了",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": null,
+          "rating": 1,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "เกมก็เพิ่มพาทใหม่ แต่แทบจะไม่ได้ทำให้เกิดแม็คนิคใหม่...บังคับทีมล็อคทีมให้มีตัวเฉพาะเท่านั้น...พาวเวอร์คีปอันนี้แย่",
+          "text": "ฉันเป็นคนหนึ่งที่เคยรักเกมนี้มากเลย เคยรีวิวให้คะแนน5ดาวเต็มด้วยซ้ำ แต่พอช่วงนี้เกมอัปเดตมาเรื่อยๆแต่กลับจนถึงช่วง3.0-4.0 เกมก็เพิ่มพาทใหม่ แต่แทบจะไม่ได้ทำให้เกิดแม็คนิคใหม่ขึ้นเลย เหมือนเป็มเกมเพลย์เดิมแค่มีพาทใหม่ และพาทใหม่อย่าง ความทรงจำ และ ปิติสุข ก็ออกแบบมาเพื่อเล่นด้วยกันเองและLCที่ออกมามาเฉพาะตัวเหมือนบังคับให้เปิด และความสนุกในการจัดทีมเองก็หายไป ตั้งที่เป็นเกมเทิร์นเบส แต่บังคับทีมล็อคทีมให้มีตัวเฉพาะเท่านั้นถึงจะแรงถ้าไม่มีจะไม่แรง มันแย่มากๆ และสิ่งสุดท้ายเลยคือพาวเวอร์คีปอันนี้แย่",
+          "translation_zh": "游戏增加了新的章节，但几乎没有带来新的机制……强制团队锁定只能使用特定角色……这个能力保持系统很糟糕。",
+          "entities": [
+            {
+              "name": "强度膨胀/Powercreep",
+              "type": "机制"
+            }
+          ]
+        },
+        {
+          "store": "google_play",
+          "region": "th",
+          "region_name": "泰国",
+          "version": "4.0.0",
+          "rating": 2,
+          "sentiment_display": "负向",
+          "issue_display": "平衡/难度",
+          "evidence": "Forced team compositions completely ruin the strategy in turn-based games.",
+          "text": "Forced team compositions completely ruin the strategy in turn-based games.",
+          "translation_zh": "强制的队伍组合完全破坏了回合制游戏中的策略性。",
+          "entities": []
+        },
+        {
+          "store": "google_play",
+          "region": "br",
+          "region_name": "巴西",
+          "version": null,
+          "rating": 4,
+          "sentiment_display": "混合",
+          "issue_display": "平衡/难度",
+          "evidence": "characters are just improved copies, events require using 10 characters with many effects, story has too much useless dialogue",
+          "text": "jogo muito bom,o único jogo da hoyoverse que não faz o jogador de escravo ,mas ainda sim tem seus problemas que é esses personagens que só são uma cópia melhorada de um personagem que já existia antes,além do fato desse jogo só fazer personagens com ataques que dão mais dano e efeitos o pior são os eventos onde vc usa 10 personagens,que ataca há visão sensorial com o tanto de efeitos Há história é boa mas meio enrolada com muito diálogo inutil",
+          "translation_zh": "角色只是改进版的复制品，活动需要使用10个带有多种效果的角色，剧情有太多无用的对话。",
+          "entities": []
+        }
+      ]
+    }
+  },
+  "regions": [
+    {
+      "region": "us",
+      "region_name": "美国",
+      "reviews": 613,
+      "avg_rating": 3.6378,
+      "negative_rate": 0.3328
+    },
+    {
+      "region": "br",
+      "region_name": "巴西",
+      "reviews": 459,
+      "avg_rating": 4.4205,
+      "negative_rate": 0.1264
+    },
+    {
+      "region": "id",
+      "region_name": "印度尼西亚",
+      "reviews": 337,
+      "avg_rating": 3.9139,
+      "negative_rate": 0.3116
+    },
+    {
+      "region": "fr",
+      "region_name": "法国",
+      "reviews": 178,
+      "avg_rating": 4.3652,
+      "negative_rate": 0.1011
+    },
+    {
+      "region": "jp",
+      "region_name": "日本",
+      "reviews": 154,
+      "avg_rating": 3.3442,
+      "negative_rate": 0.4286
+    },
+    {
+      "region": "th",
+      "region_name": "泰国",
+      "reviews": 154,
+      "avg_rating": 3.7143,
+      "negative_rate": 0.3182
+    },
+    {
+      "region": "tw",
+      "region_name": "中国台湾",
+      "reviews": 130,
+      "avg_rating": 3.1,
+      "negative_rate": 0.4923
+    },
+    {
+      "region": "kr",
+      "region_name": "韩国",
+      "reviews": 101,
+      "avg_rating": 3.7228,
+      "negative_rate": 0.3861
+    },
+    {
+      "region": "de",
+      "region_name": "德国",
+      "reviews": 41,
+      "avg_rating": 3.9512,
+      "negative_rate": 0.1951
+    },
+    {
+      "region": "my",
+      "region_name": "马来西亚",
+      "reviews": 18,
+      "avg_rating": 4.1111,
+      "negative_rate": 0.2778
+    },
+    {
+      "region": "ca",
+      "region_name": "加拿大",
+      "reviews": 15,
+      "avg_rating": 4.0,
+      "negative_rate": 0.2
+    },
+    {
+      "region": "gb",
+      "region_name": "英国",
+      "reviews": 11,
+      "avg_rating": 4.0909,
+      "negative_rate": 0.2727
+    }
+  ],
+  "versions": [
+    {
+      "version": "4.2.0",
+      "store": "app_store",
+      "reviews": 145,
+      "avg_rating": 2.3517,
+      "negative_rate": 0.7586,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "4.2.0",
+      "store": "google_play",
+      "reviews": 333,
+      "avg_rating": 2.5255,
+      "negative_rate": 0.7207,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "4.1.0",
+      "store": "google_play",
+      "reviews": 7,
+      "avg_rating": 3.0,
+      "negative_rate": 0.8571,
+      "top_issue": "抽卡/付费",
+      "top_issue_raw": "monetization",
+      "top_other_detail": "抽卡/付费"
+    },
+    {
+      "version": "4.0.0",
+      "store": "google_play",
+      "reviews": 9,
+      "avg_rating": 2.1111,
+      "negative_rate": 1.0,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "3.8.0",
+      "store": "google_play",
+      "reviews": 4,
+      "avg_rating": 2.25,
+      "negative_rate": 0.75,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "3.7.0",
+      "store": "google_play",
+      "reviews": 1,
+      "avg_rating": 1.0,
+      "negative_rate": 1.0,
+      "top_issue": "内容/剧情/活动",
+      "top_issue_raw": "content",
+      "top_other_detail": "内容/剧情/活动"
+    },
+    {
+      "version": "3.5.0",
+      "store": "google_play",
+      "reviews": 4,
+      "avg_rating": 3.25,
+      "negative_rate": 0.5,
+      "top_issue": "抽卡/付费",
+      "top_issue_raw": "monetization",
+      "top_other_detail": "抽卡/付费"
+    },
+    {
+      "version": "3.4.0",
+      "store": "google_play",
+      "reviews": 3,
+      "avg_rating": 3.0,
+      "negative_rate": 1.0,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "3.3.0",
+      "store": "google_play",
+      "reviews": 3,
+      "avg_rating": 1.6667,
+      "negative_rate": 1.0,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "3.2.0",
+      "store": "google_play",
+      "reviews": 6,
+      "avg_rating": 2.1667,
+      "negative_rate": 0.8333,
+      "top_issue": "平衡/难度",
+      "top_issue_raw": "balance",
+      "top_other_detail": "平衡/难度"
+    },
+    {
+      "version": "3.1.0",
+      "store": "google_play",
+      "reviews": 4,
+      "avg_rating": 2.0,
+      "negative_rate": 1.0,
+      "top_issue": "其他：泛负评/未说明",
+      "top_issue_raw": "other",
+      "top_other_detail": "泛负评/未说明"
+    },
+    {
+      "version": "3.0.0",
+      "store": "google_play",
+      "reviews": 1,
+      "avg_rating": 1.0,
+      "negative_rate": 1.0,
+      "top_issue": "抽卡/付费",
+      "top_issue_raw": "monetization",
+      "top_other_detail": "抽卡/付费"
+    }
+  ],
+  "competitors": [
+    {
+      "app_short_name": "HSR",
+      "reviews": 2241,
+      "avg_rating": 3.8701,
+      "negative_rate": 0.2825,
+      "top_issue": "平衡/难度"
+    },
+    {
+      "app_short_name": "ZZZ",
+      "reviews": 176,
+      "avg_rating": 3.0227,
+      "negative_rate": 0.4602,
+      "top_issue": "性能/卡顿"
+    },
+    {
+      "app_short_name": "Genshin",
+      "reviews": 915,
+      "avg_rating": 2.2022,
+      "negative_rate": 0.7027,
+      "top_issue": "抽卡/付费"
+    },
+    {
+      "app_short_name": "WuWa",
+      "reviews": 472,
+      "avg_rating": 3.8729,
+      "negative_rate": 0.303,
+      "top_issue": "性能/卡顿"
+    }
+  ],
+  "competitor_metrics": [
+    {
+      "app_short_name": "HSR",
+      "store": "app_store",
+      "reviews": 414,
+      "avg_rating": 3.9155,
+      "negative_rate": 0.2657,
+      "high_severity": 0.1208,
+      "top_issue": "平衡/难度"
+    },
+    {
+      "app_short_name": "HSR",
+      "store": "google_play",
+      "reviews": 1827,
+      "avg_rating": 3.8599,
+      "negative_rate": 0.2863,
+      "high_severity": 0.1122,
+      "top_issue": "平衡/难度"
+    },
+    {
+      "app_short_name": "ZZZ",
+      "store": "app_store",
+      "reviews": 31,
+      "avg_rating": 3.0968,
+      "negative_rate": 0.5161,
+      "high_severity": 0.2903,
+      "top_issue": "内容/剧情/活动"
+    },
+    {
+      "app_short_name": "ZZZ",
+      "store": "google_play",
+      "reviews": 145,
+      "avg_rating": 3.0069,
+      "negative_rate": 0.4483,
+      "high_severity": 0.269,
+      "top_issue": "性能/卡顿"
+    },
+    {
+      "app_short_name": "Genshin",
+      "store": "app_store",
+      "reviews": 396,
+      "avg_rating": 1.7955,
+      "negative_rate": 0.8207,
+      "high_severity": 0.3687,
+      "top_issue": "抽卡/付费"
+    },
+    {
+      "app_short_name": "Genshin",
+      "store": "google_play",
+      "reviews": 519,
+      "avg_rating": 2.5125,
+      "negative_rate": 0.6127,
+      "high_severity": 0.2524,
+      "top_issue": "抽卡/付费"
+    },
+    {
+      "app_short_name": "WuWa",
+      "store": "app_store",
+      "reviews": 71,
+      "avg_rating": 3.6479,
+      "negative_rate": 0.4085,
+      "high_severity": 0.2535,
+      "top_issue": "性能/卡顿"
+    },
+    {
+      "app_short_name": "WuWa",
+      "store": "google_play",
+      "reviews": 401,
+      "avg_rating": 3.9127,
+      "negative_rate": 0.2843,
+      "high_severity": 0.1621,
+      "top_issue": "性能/卡顿"
+    }
+  ],
+  "competitor_sentiment": [
+    {
+      "app_short_name": "Genshin",
+      "sentiment_display": "负向",
+      "reviews": 643,
+      "share": 0.7027
+    },
+    {
+      "app_short_name": "Genshin",
+      "sentiment_display": "正向",
+      "reviews": 184,
+      "share": 0.2011
+    },
+    {
+      "app_short_name": "Genshin",
+      "sentiment_display": "混合",
+      "reviews": 58,
+      "share": 0.0634
+    },
+    {
+      "app_short_name": "Genshin",
+      "sentiment_display": "中性",
+      "reviews": 30,
+      "share": 0.0328
+    },
+    {
+      "app_short_name": "WuWa",
+      "sentiment_display": "正向",
+      "reviews": 247,
+      "share": 0.5233
+    },
+    {
+      "app_short_name": "WuWa",
+      "sentiment_display": "负向",
+      "reviews": 143,
+      "share": 0.303
+    },
+    {
+      "app_short_name": "WuWa",
+      "sentiment_display": "混合",
+      "reviews": 50,
+      "share": 0.1059
+    },
+    {
+      "app_short_name": "WuWa",
+      "sentiment_display": "中性",
+      "reviews": 31,
+      "share": 0.0657
+    },
+    {
+      "app_short_name": "WuWa",
+      "sentiment_display": "未知",
+      "reviews": 1,
+      "share": 0.0021
+    },
+    {
+      "app_short_name": "ZZZ",
+      "sentiment_display": "负向",
+      "reviews": 81,
+      "share": 0.4602
+    },
+    {
+      "app_short_name": "ZZZ",
+      "sentiment_display": "正向",
+      "reviews": 55,
+      "share": 0.3125
+    },
+    {
+      "app_short_name": "ZZZ",
+      "sentiment_display": "混合",
+      "reviews": 30,
+      "share": 0.1705
+    },
+    {
+      "app_short_name": "ZZZ",
+      "sentiment_display": "中性",
+      "reviews": 10,
+      "share": 0.0568
+    }
+  ],
+  "recommendations": [
+    "优先处理「平衡/难度」：本周期负面/混合评论 250 条，占相关负面样本 30.2%。安排策划复盘难度、角色强度与关卡门槛，优先核对近期版本是否让老玩家或回流玩家出现明显挫败感。",
+    "围绕「游戏平衡」建立专项看板：它是当前最高频玩家抱怨焦点，共 94 条；建议每日报告新增样本、代表原声和是否集中在某个版本。",
+    "把「强度膨胀/Powercreep、抽卡保底/50-50、高难挑战/终局、流萤/Firefly/Sam、银狼/Silver Wolf」纳入专项复盘：这些角色、活动或玩法在负面评论中被反复点名，建议分别检查强度预期、活动奖励、关卡要求和宣发承诺是否与玩家体验不一致。",
+    "版本排查先看 4.2.0：该版本负面/混合样本 478 条。建议与发布节奏、热修内容和新增活动节点对齐，判断是否为版本引入问题。",
+    "地区运营优先看「美国」：负面/混合样本 261 条。建议结合当地语言原文复核，判断是玩法共性问题还是本地化、支付、社区舆论差异。",
+    "高风险样本需要单独闭环：当前高危/严重样本 255 条，最常见为「平衡/难度」。建议标记处理状态，避免同一问题在商店评论中持续累积。"
+  ],
+  "risk_samples": [
+    {
+      "store": "google_play",
+      "region": "us",
+      "region_name": "美国",
+      "version": null,
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "闪退/无法启动",
+      "topic_display": "crashing",
+      "evidence": "had to keep playing the first mission over and over again due to crashing; game needs an update that will basically take up all my phone memory and still DOESN'T HAVE ENOUGH; redeemed some of my Google Play points on a bundle that I'll never get to use",
+      "text": "Welp it's a shame that I can't continually play this game, because the first mission was fun and Iliked the characters. Only thing is I had to keep playing tje first mission over and over again due to crashing. Then I get to the end, with the hopes of playing the rest of the game and I can't. The game needs an update that will basically take up all my phone memory and still DOESN'T HAVE ENOUGH! I redeemed some of my Google Play points on a bundle that I'll never get to use. Very disappointed RN",
+      "translation_zh": "因为游戏崩溃，我不得不一遍又一遍地重复第一关；游戏需要更新，但更新后几乎占满了我手机的所有内存，还是不够用；我用Google Play积分兑换了一些礼包，却根本没机会使用。",
+      "entities": []
+    },
+    {
+      "store": "app_store",
+      "region": "jp",
+      "region_name": "日本",
+      "version": "4.2.0",
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "账号/登录",
+      "topic_display": "account login issues",
+      "evidence": "Appleアカウントでやろうとすると認証失敗...テキストが打ち込めなくなり...頻繁にアクセスしすぎとかで弾かれてそもそも開始できません",
+      "text": "プレイしたいけど...\nAppleアカウントでやろうとすると認証失敗\nAppleアカウントと同じメールアドレスで新規登録しようとすると既に登録済み扱い\nメールアドレスでログインしようにも登録されてない扱い\n別のgoogleアカウントでも同様に認証失敗\nそして急にテキストボックスクリックしてもテキストが打ち込めなくなり\nテキスト入力システムを強制再起動かけて別のメールアドレスで登録しようとしたら頻繁にアクセスしすぎとかで弾かれてそもそも開始できません\nこれは端末の問題でしょうか？iPhoneとpc両端末で同様の挙動です\npcは拡張機能もセキュリティも引っかかるようなものは入れてませんし、通信は極めて良好です\n過去にそのアカウントや端末で変なことをした覚えもないです（ゼンゼロ一瞬やって合わなくてやめたくらいしか使用した覚えがないです）\nどこの設定が噛み合ってないんでしょうか？\nゲームはすごく面白そうでプレイしたいです\n解決策はありますか？",
+      "translation_zh": "使用Apple账号登录时认证失败……无法输入文字……因为频繁访问被拒绝，根本无法开始游戏。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "id",
+      "region_name": "印度尼西亚",
+      "version": null,
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "账号/登录",
+      "topic_display": "account_loss",
+      "evidence": "akun yang sudah terkait baik itu google, hoyoverse menghilang secara tiba-tiba dan harus mengulang semua dari awal",
+      "text": "gameplay dan story yang sangat bagus. permasalahannya ada di bagian akun. untuk ketiga kalinya akun yang sudah terkait baik itu google, hoyoverse menghilang secara tiba-tiba dan harus mengulang semua dari awal buat. akun baru juga hilang, akun yang sudah tinggi juga hilang tiba-tiba. semoga permasalahan ini bisa di fix meski akun ku yang menjadi korban.",
+      "translation_zh": "已经绑定的账号，无论是谷歌还是Hoyoverse，都会突然消失，导致必须从头开始重新玩。",
+      "entities": []
+    },
+    {
+      "store": "app_store",
+      "region": "us",
+      "region_name": "美国",
+      "version": "4.2.0",
+      "rating": 2,
+      "sentiment_display": "负向",
+      "issue_display": "账号/登录",
+      "topic_display": "account security",
+      "evidence": "All my Hoyoverse accounts recently have been hacked and stolen and i have provided more than enough proof it’s mine and they have denied returning my accounts 3 times already.",
+      "text": "Stolen account help\nAll my Hoyoverse accounts recently have been hacked and stolen and i have provided more than enough proof it’s mine and they have denied returning my accounts 3 times already. I have been playing this game since release and have invested a lot of time and money into this and just want my accounts back.",
+      "translation_zh": "我所有的Hoyoverse账号最近都被黑了并且被盗了，我已经提供了足够多的证明这些账号是我的，但他们已经三次拒绝归还我的账号。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "us",
+      "region_name": "美国",
+      "version": "4.2.0",
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "平衡/难度",
+      "topic_display": "抽卡机制",
+      "evidence": "Thier gacha system is so unfair it can just lead people to stress bye bye 5 years of playing this game I'm just gonna delete this trash game",
+      "text": "What's the purpose of playing this game I you can't get your 5 star character Thier gacha system is so unfair it can just lead people to stress bye bye 5 years of playing this game I'm just gonna delete this trash game!!!",
+      "translation_zh": "他们的扭蛋系统太不公平了，玩着玩着只会让人压力山大。玩了这游戏五年了，我决定删了这垃圾游戏，拜拜。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "us",
+      "region_name": "美国",
+      "version": "4.2.0",
+      "rating": 2,
+      "sentiment_display": "负向",
+      "issue_display": "更新后回退",
+      "topic_display": "性能体验",
+      "evidence": "With 4.2, it was a complete disaster. It either freezes or lags gradually during combat, or the game crashes.",
+      "text": "I noticed that in 4.0-4.1 everything was more or less fine and crash-free, but with 4.2, it was a complete disaster. I can't get through the combat content properly - it either freezes or lags gradually during combat, or the game crashes. Despite all the game fixes, including those before May 3, it did not help improve the gameplay.",
+      "translation_zh": "4.2版本简直是一场灾难。战斗中要么卡死，要么逐渐变得卡顿，或者游戏直接崩溃。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "jp",
+      "region_name": "日本",
+      "version": "4.2.0",
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "功能异常",
+      "topic_display": "game_start_loop",
+      "evidence": "ゲーム開始をタップしたらリソースダウンロード→ゲーム開始→リソースダウンロードと延々とループする為にゲームが起動出来ない",
+      "text": "ゲームをしたいのにゲーム開始をタップしたらリソースダウンロード→ゲーム開始→リソースダウンロード→ゲーム開始→リソースダウンロードと延々とループする為にゲームが起動出来ない為評価を1とさせて頂きます",
+      "translation_zh": "点击开始游戏后，会不断循环资源下载→游戏开始→资源下载，导致游戏无法启动。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "us",
+      "region_name": "美国",
+      "version": "4.2.0",
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "闪退/无法启动",
+      "topic_display": "game_crash",
+      "evidence": "can't open after update... dev telling me to reach out IN GAME when my complaint is that the game won't open",
+      "text": "can't open after update... eta: please note dev telling me to reach out IN GAME when my complaint is that the game won't open. this is typical awful CS from hoyo. please please please don't give these grifters your time or money. HSR had a promising potential but over time became a glitching slog of power creep and cliched storytelling. IT'S SO BAD",
+      "translation_zh": "更新后打不开……开发者让我在游戏内联系他们，但我的问题是游戏根本打不开。",
+      "entities": [
+        {
+          "name": "强度膨胀/Powercreep",
+          "type": "机制"
+        }
+      ]
+    },
+    {
+      "store": "google_play",
+      "region": "br",
+      "region_name": "巴西",
+      "version": null,
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "更新后回退",
+      "topic_display": "bugs",
+      "evidence": "game freezes forcing computer shutdown, mission start button bugs preventing mission start or exit",
+      "text": "com essa nova updt, o jogo ficou TÃO bugado, que parece que foi feito por uma criança, se eu for listar os bugs que aconteceram comigo, eu ia exceder o limite de caracteres e não ia conssguir listar todos, mas só pra ficar de exemplo: direto meu jogo trava e eu sou forcado a desligar o computador, tem missões cujo botão para começar buga e eu não consigo nem iniciar e nem sair da missão, obrigando a sair do jogo DE NOVO, etc",
+      "translation_zh": "游戏卡死，导致电脑必须强制关机，任务开始按钮出现故障，无法开始任务或退出。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "br",
+      "region_name": "巴西",
+      "version": "4.2.0",
+      "rating": 2,
+      "sentiment_display": "负向",
+      "issue_display": "闪退/无法启动",
+      "topic_display": "game crash",
+      "evidence": "os eventos da guerra monetária e da 'vida de streamer' não estão funcionando... o jogo simplesmente crasha e fecha sozinho",
+      "text": "Estou tendo um problema grave com o jogo, os eventos da guerra monetária e da \"vida de streamer\" não estão funcionando, quando entro pra jogar esses eventos, o jogo simplesmente crasha e fecha sozinho. Não é problema no meu celular, visto que ele roda o jogo sem travar. Já desinstalei e instalei o jogo e nada ainda.",
+      "translation_zh": "货币战争和“主播生活”活动无法正常进行……游戏会直接崩溃并自动关闭。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "tw",
+      "region_name": "中国台湾",
+      "version": "4.2.0",
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "闪退/无法启动",
+      "topic_display": "闪退问题",
+      "evidence": "死机了玩不了啦 (The game crashed and cannot be played)",
+      "text": "死机了玩不了啦",
+      "translation_zh": "游戏死机了，无法继续玩了。",
+      "entities": []
+    },
+    {
+      "store": "google_play",
+      "region": "jp",
+      "region_name": "日本",
+      "version": null,
+      "rating": 1,
+      "sentiment_display": "负向",
+      "issue_display": "功能异常",
+      "topic_display": "advertisement_bug",
+      "evidence": "広告を見たのに報酬を得られない。進行不可になるバグ広告やめろ！",
+      "text": "広告を見たのに報酬を得られない。進行不可になるバグ広告やめろ！広告出す前に100億回見直せ！",
+      "translation_zh": "明明看了广告却得不到奖励。请停止那些导致无法继续游戏的广告bug！",
+      "entities": []
+    }
+  ],
+  "report_markdown": ""
+}

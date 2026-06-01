@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>星穹铁道海外评论工作台</title>
+    <link rel="stylesheet" href="styles.css?v=20260602-static-pages-1" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>星穹铁道海外评论工作台</h1>
+          <p id="methodNote">正在读取数据...</p>
+        </div>
+        <div class="toolbar">
+          <span id="loadingStatus" class="loading-status" aria-live="polite"></span>
+          <label for="startDate">开始</label>
+          <input id="startDate" type="date" />
+          <label for="endDate">结束</label>
+          <input id="endDate" type="date" />
+          <button id="reloadButton" type="button" title="刷新数据" aria-label="刷新数据">↻</button>
+          <p id="dataCoverageNote" class="data-coverage-note" aria-live="polite"></p>
+        </div>
+      </header>
+      <div id="loadingBar" class="loading-bar" aria-hidden="true"><span></span></div>
+
+      <main>
+        <section class="summary-band">
+          <div class="headline" id="headline"></div>
+          <div class="kpi-grid">
+            <div class="kpi"><span>目标样本</span><strong id="kpiReviews">-</strong></div>
+            <div class="kpi"><span>平均评分</span><strong id="kpiRating">-</strong></div>
+            <div class="kpi"><span>负面率</span><strong id="kpiNegative">-</strong></div>
+            <div class="kpi"><span>版本相关</span><strong id="kpiVersion">-</strong></div>
+            <div class="kpi"><span>竞品均分</span><strong id="kpiCompetitor">-</strong></div>
+          </div>
+        </section>
+
+        <section class="dashboard-grid">
+          <div class="panel span-12">
+            <div class="panel-head">
+              <h2>游戏总体健康度</h2>
+              <span id="healthNote"></span>
+            </div>
+            <div id="healthPanel" class="health-panel"></div>
+          </div>
+
+          <div class="panel span-7">
+            <div class="panel-head">
+              <h2>星穹铁道 / 商店指标</h2>
+              <span id="dataSource"></span>
+            </div>
+            <div class="table-wrap">
+              <table id="metricsTable"></table>
+            </div>
+          </div>
+
+          <div class="panel span-5">
+            <div class="panel-head">
+              <h2>情绪分布</h2>
+            </div>
+            <div id="sentimentBars" class="bars"></div>
+          </div>
+
+          <div class="panel span-4">
+            <div class="panel-head">
+              <h2>负面问题类型</h2>
+            </div>
+            <div id="issueBars" class="bars compact"></div>
+          </div>
+
+          <div class="panel span-8">
+            <div class="panel-head">
+              <h2>地区表现</h2>
+              <span>评分量级与加权评分</span>
+            </div>
+            <div id="regionRatingChart" class="region-rating-chart"></div>
+          </div>
+
+          <div class="panel span-12">
+            <div class="panel-head">
+              <h2>各地区负面问题类型拆分</h2>
+              <span>按负面/混合样本占比</span>
+            </div>
+            <div id="regionIssueChart" class="region-issue-chart"></div>
+          </div>
+
+
+          <div class="panel span-12 topic-panel">
+            <div class="panel-head">
+              <h2>玩家抱怨焦点</h2>
+              <span>点击左侧词条查看具体角色、活动与原声</span>
+            </div>
+            <div class="topic-layout">
+              <div id="topicBars" class="bars compact"></div>
+              <div id="topicDetails" class="topic-details"></div>
+            </div>
+          </div>
+
+          <div class="panel span-6">
+            <div class="panel-head">
+              <h2>版本问题定位</h2>
+            </div>
+            <div class="table-wrap">
+              <table id="versionTable"></table>
+            </div>
+          </div>
+
+          <div class="panel span-6">
+            <div class="panel-head">
+              <h2>竞品对比 / 商店指标</h2>
+            </div>
+            <div class="table-wrap competitor-stack">
+              <table id="competitorMetricsTable"></table>
+            </div>
+          </div>
+
+          <div class="panel span-12 action-center-panel">
+            <div class="panel-head">
+              <h2>AI Action Center</h2>
+              <span>按 Priority Score 生成运营决策动作</span>
+            </div>
+            <div id="actionCenter" class="action-center"></div>
+          </div>
+
+          <div class="panel span-6">
+            <div class="panel-head">
+              <h2>高风险原声样本</h2>
+            </div>
+            <div id="riskSamples" class="samples"></div>
+          </div>
+
+          <div class="panel span-6">
+            <div class="panel-head">
+              <h2>产品与运营建议</h2>
+            </div>
+            <ul id="recommendations" class="recommendations"></ul>
+          </div>
+        </section>
+      </main>
+    </div>
+
+
+    <button id="copilotToggle" class="copilot-toggle" type="button">Ask Review Agent</button>
+    <section id="copilotPanel" class="copilot-panel" aria-live="polite">
+      <div class="copilot-head">
+        <div>
+          <strong>Review Data Copilot</strong>
+          <span>基于当前日期范围与本地评论数据回答</span>
+        </div>
+        <button id="copilotClose" type="button" aria-label="关闭 Copilot">×</button>
+      </div>
+      <div id="copilotMessages" class="copilot-messages"></div>
+      <div id="copilotSuggestions" class="copilot-suggestions"></div>
+      <form id="copilotForm" class="copilot-form">
+        <textarea id="copilotInput" rows="2" placeholder="例如：为什么马来西亚负面率高？"></textarea>
+        <button type="submit">发送</button>
+      </form>
+    </section>
+
+    <script src="app.js?v=20260602-static-pages-1"></script>
+  </body>
+</html>

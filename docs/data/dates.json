@@ -1,0 +1,221 @@
+{
+  "dates": [
+    {
+      "date": "2026-05-31",
+      "status": "error",
+      "status_detail": "没有真实评论正文",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-30",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-29",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-28",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-27",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-26",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-25",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-24",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-23",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-22",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-21",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-20",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-19",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-18",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-17",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-16",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-15",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-14",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-13",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-12",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-11",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-10",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-09",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-08",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-07",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-06",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-05",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-04",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-03",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-02",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    },
+    {
+      "date": "2026-05-01",
+      "status": "fetched",
+      "status_detail": "",
+      "scored": true,
+      "clean": true
+    }
+  ]
+}
